@@ -277,7 +277,7 @@ IPTV5+,http://150.138.8.143/00/SNM/CHANNEL00000703/index.m3u8
 J2,http://120.84.96.29:808/hls/86/index.m3u8#http://120.84.96.29:808/hls/86/index.m3u8
 
 4K频道,#genre#
-SiTV欢笑剧场4K.http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4Khttp://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 咪咕4K,http://117.136.154.98/PLTV/88888888/224/3221225833/index.m3u8#http://117.136.154.98/PLTV/88888888/224/3221225800/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8#http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3
