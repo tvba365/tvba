@@ -434,8 +434,6 @@ http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" tvg-name="都市剧场" group-title="其他频道",都市剧场
 http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/幸福彩.png" tvg-name="幸福彩" group-title="其他频道",幸福彩
-http://150.138.8.143/00/SNM/CHANNEL00002023/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东方财经.png" tvg-name="东方财经" group-title="其他频道",东方财经
 http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" tvg-name="游戏风云" group-title="其他频道",游戏风云
@@ -462,8 +460,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" tvg-name="茶频道" group-title="其他频道",湖南茶频道
 http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
-#EXTINF:-1 tvg-name="体育赛事" group-title="其他频道",体育赛事
-http://150.138.8.143/00/SNM/CHANNEL00002013/index.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="其他频道",四海钓鱼
 http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="其他频道",中华特产
@@ -492,6 +488,10 @@ http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000646/index.m3u8
 #EXTINF:-1 tvg-name="足球" group-title="其他频道",足球
 http://150.138.8.143/00/SNM/CHANNEL00000704/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/幸福彩.png" tvg-name="幸福彩" group-title="其他频道",幸福彩
+http://150.138.8.143/00/SNM/CHANNEL00002023/index.m3u8
+#EXTINF:-1 tvg-name="体育赛事" group-title="其他频道",体育赛事
+http://150.138.8.143/00/SNM/CHANNEL00002013/index.m3u8
 #EXTINF:-1 tvg-name="海看生活" group-title="其他频道",海看生活
 http://150.138.8.143/00/SNM/CHANNEL00000202/index.m3u8
 #EXTINF:-1 tvg-name="海看教育" group-title="其他频道",海看教育
