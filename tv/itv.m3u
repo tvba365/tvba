@@ -161,6 +161,10 @@ http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 #EXTINF:-1 tvg-name="济南鲁中" group-title="省内频道",济南鲁中
 http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1 tvg-name="商河综合" group-title="省内频道",商河综合
+http://150.138.8.143/00/SNM/CHANNEL00001008/index.m3u8
+#EXTINF:-1 tvg-name="历城综合" group-title="省内频道",历城综合
+http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
 #EXTINF:-1 tvg-name="济南长清新闻" group-title="省内频道",济南长清新闻
 http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
 #EXTINF:-1 tvg-name="济南济阳综合" group-title="省内频道",济南济阳综合
@@ -183,7 +187,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/LAIXIZH/LAIXIZH.jpg" tvg-name="青岛莱西综合" group-title="省内频道",青岛莱西综合
 http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
-#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HUANGDAOXW/HUANGDAOXW.jpg" tvg-name="黄岛新闻" group-title="省内频道",黄岛新闻
+#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HUANGDAOXW/HUANGDAOXW.jpg" tvg-name="黄岛综合" group-title="省内频道",黄岛综合
 http://150.138.8.143/00/SNM/CHANNEL00001086/index.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HUANGDAOSH/HUANGDAOSH.jpg" tvg-name="黄岛生活" group-title="省内频道",黄岛生活
 http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
@@ -195,7 +199,7 @@ http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 #EXTINF:-1 tvg-name="德州公共" group-title="省内频道",德州公共
 http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
-#EXTINF:-1 tvg-name="德州宁津新闻综合" group-title="省内频道",德州宁津新闻综合
+#EXTINF:-1 tvg-name="德州宁津综合" group-title="省内频道",德州宁津综合
 http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/QHXW/QHXW.jpg" tvg-name="德州齐河新闻" group-title="省内频道",德州齐河新闻
 http://150.138.8.143/00/SNM/CHANNEL00001056/index.m3u8
@@ -227,6 +231,7 @@ http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000217/index.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/SDWF4/SDWF4.jpg" tvg-name="潍坊科教" group-title="省内频道",潍坊科教
 http://150.138.8.143/00/SNM/CHANNEL00000218/index.m3u8
+
 #EXTINF:-1 tvg-name="潍坊寿光新闻" group-title="省内频道",潍坊寿光新闻
 http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/SGSCPD/SGSCPD.jpg" tvg-name="潍坊寿光蔬菜" group-title="省内频道",潍坊寿光蔬菜
@@ -243,7 +248,7 @@ http://150.138.8.143/00/SNM/CHANNEL00001042/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/CYZH/CYZH.jpg" tvg-name="潍坊昌邑新闻综合" group-title="省内频道",潍坊昌邑新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" tvg-name="高密新闻" group-title="省内频道",高密新闻
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" tvg-name="高密综合" group-title="省内频道",高密综合
 http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" tvg-name="临朐综合" group-title="省内频道",临朐综合
 http://150.138.8.143/00/SNM/CHANNEL00001085/index.m3u8
@@ -257,7 +262,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000221/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
 #EXTINF:-1 tvg-name="滨州无棣综合" group-title="省内频道",滨州无棣综合
 http://150.138.8.143/00/SNM/CHANNEL00001024/index.m3u8
-#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/ZPXWZH/ZPXWZH.jpg" tvg-name="滨州好生新闻频道" group-title="省内频道",滨州好生新闻频道
+#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/ZPXWZH/ZPXWZH.jpg" tvg-name="滨州邹平综合" group-title="省内频道",滨州邹平综合
 http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
 #EXTINF:-1 tvg-name="滨州沾化综合" group-title="省内频道",滨州沾化综合
 http://150.138.8.143/00/SNM/CHANNEL00001035/index.m3u8
@@ -271,7 +276,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
 #EXTINF:-1 tvg-name="聊城综合" group-title="省内频道",聊城综合
 http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
-#EXTINF:-1 tvg-name="聊城公共" group-title="省内频道",聊城公共
+#EXTINF:-1 tvg-name="聊城民生" group-title="省内频道",聊城民生
 http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
 #EXTINF:-1 tvg-name="聊城冠县综合" group-title="省内频道",聊城冠县综合
 http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
@@ -299,9 +304,9 @@ http://150.138.8.143/00/SNM/CHANNEL00001046/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 #EXTINF:-1 tvg-name="济宁综合" group-title="省内频道",济宁综合
 http://150.138.8.143/00/SNM/CHANNEL00000238/index.m3u8
-#EXTINF:-1 tvg-name="济宁教育" group-title="省内频道",济宁教育
+#EXTINF:-1 tvg-name="济宁生活" group-title="省内频道",济宁生活
 http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
-#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/SDJNTV1/SDJNTV1.jpg" tvg-name="济宁新闻"  group-title="省内频道",济宁新闻
+#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/SDJNTV1/SDJNTV1.jpg" tvg-name="济宁综合"  group-title="省内频道",济宁综合
 http://150.138.8.143/00/SNM/CHANNEL00000240/index.m3u8
 #EXTINF:-1 tvg-name="济宁公共" group-title="省内频道",济宁公共
 http://150.138.8.143/00/SNM/CHANNEL00000241/index.m3u8
@@ -315,13 +320,19 @@ http://150.138.8.143/00/SNM/CHANNEL00001016/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" tvg-name="济宁曲阜新闻综合" group-title="省内频道",济宁曲阜新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
-#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/ZCYT/ZCYT.jpg" tvg-name="济宁邹城新闻综合" group-title="省内频道",济宁邹城新闻综合
+#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/ZCYT/ZCYT.jpg" tvg-name="济宁邹城综合" group-title="省内频道",济宁邹城综合
 http://150.138.8.143/00/SNM/CHANNEL00001038/index.m3u8
-#EXTINF:-1 tvg-name="日照综合" group-title="省内频道",日照综合
+#EXTINF:-1 tvg-name="鱼台生活" group-title="省内频道",鱼台生活
+http://150.138.8.143/00/SNM/CHANNEL00001108/index.m3u8
+#EXTINF:-1 tvg-name="鱼台新闻" group-title="省内频道",鱼台新闻
+http://150.138.8.143/00/SNM/CHANNEL00001107/index.m3u8
+#EXTINF:-1 tvg-name="日照新闻综合" group-title="省内频道",日照新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 #EXTINF:-1 tvg-name="日照科教" group-title="省内频道",日照科教
 http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
-#EXTINF:-1 tvg-name="日照五莲新闻综合" group-title="省内频道",日照五莲新闻综合
+#EXTINF:-1 tvg-name="日照公共" group-title="省内频道",日照公共
+http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
+#EXTINF:-1 tvg-name="日照五莲综合" group-title="省内频道",日照五莲综合
 http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 #EXTINF:-1 tvg-name="日照莒县" group-title="省内频道",日照莒县
 http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
@@ -341,7 +352,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
 #EXTINF:-1 tvg-name="烟台栖霞综合" group-title="省内频道",烟台栖霞综合
 http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
-#EXTINF:-1 tvg-name="烟台牟平新闻" group-title="省内频道",烟台牟平新闻
+#EXTINF:-1 tvg-name="烟台牟平综合" group-title="省内频道",烟台牟平综合
 http://150.138.8.143/00/SNM/CHANNEL00001076/index.m3u8
 #EXTINF:-1 tvg-name="烟台牟平生活" group-title="省内频道",烟台牟平生活
 http://150.138.8.143/00/SNM/CHANNEL00001077/index.m3u8
@@ -349,15 +360,16 @@ http://150.138.8.143/00/SNM/CHANNEL00001077/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001088/index.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HYXWZH/HYXWZH.jpg" tvg-name="海阳综合" group-title="省内频道",海阳综合
 http://150.138.8.143/00/SNM/CHANNEL00001091/index.m3u8
+#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HYXWZH/HYXWZH.jpg" tvg-name="海阳综艺" group-title="省内频道",海阳综艺http://150.138.8.143/00/SNM/CHANNEL00001092/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" tvg-name="长岛新闻" group-title="省内频道",长岛新闻
 http://150.138.8.143/00/SNM/CHANNEL00001090/index.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/ZBRT1/ZBRT1.jpg" tvg-name="淄博新闻" group-title="省内频道",淄博新闻
 http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
-#EXTINF:-1 tvg-name="淄博都市" group-title="省内频道",淄博都市
+#EXTINF:-1 tvg-name="淄博文旅" group-title="省内频道",淄博文旅
 http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
-#EXTINF:-1 tvg-name="淄博生活" group-title="省内频道",淄博生活
+#EXTINF:-1 tvg-name="淄博民生" group-title="省内频道",淄博民生
 http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" tvg-name="淄博公共" group-title="省内频道",淄博公共
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" tvg-name="淄博影视" group-title="省内频道",淄博影视
 http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
 #EXTINF:-1 tvg-name="淄博沂源新闻" group-title="省内频道",淄博沂源新闻
 http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
@@ -383,6 +395,11 @@ http://150.138.8.143/00/SNM/CHANNEL00001095/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001098/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" tvg-name="沂水生活" group-title="省内频道",沂水生活
 http://150.138.8.143/00/SNM/CHANNEL00001099/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" tvg-name="莒南综合" group-title="省内频道",莒南综合
+http://150.138.8.143/00/SNM/CHANNEL00001011/index.m3u8
+
+
+失效源,#genre#
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/sheng/sdqilu.png" tvg-name="山东齐鲁" group-title="省内频道",山东齐鲁
 http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
 #EXTINF:-1 tvg-name="济南科教" group-title="省内频道",济南科教
@@ -428,6 +445,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002010/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" tvg-name="梨园" group-title="其他频道",梨园频道
 http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 tvg-name="广东大湾区卫视" group-title="其他频道",广东大湾区卫视
+http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" tvg-name="生活时尚" group-title="其他频道",生活时尚
 http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" tvg-name="魅力足球" group-title="其他频道",魅力足球
@@ -447,7 +466,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/qt/xuandong.png" tvg-name="哈哈炫动" group-title="其他频道",哈哈炫动
 http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/qt/jinyingkatong.png" tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
-http://150.138.8.143/00/SNM/CHANNEL00000047/index.m3u8
+http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-name="卡酷动画" group-title="其他频道",北京卡酷少儿
 http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="其他频道",优优宝贝
@@ -478,6 +497,10 @@ http://150.138.8.143/00/SNM/CHANNEL00000651/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000653/index.m3u8
 #EXTINF:-1 tvg-name="家庭理财（试看）" group-title="其他频道",家庭理财（试看）
 http://150.138.8.143/00/SNM/CHANNEL00000654/index.m3u8
+
+
+
+失效源,#genre#
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" tvg-name="CHC家庭影院" group-title="其他频道",CHC家庭影院
 http://150.138.8.143/00/SNM/CHANNEL00002028/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" tvg-name="CHC高清电影" group-title="其他频道",CHC高清电影
