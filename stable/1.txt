@@ -15,6 +15,7 @@ CCTV-12社会与法,http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
 CCTV-13新闻,http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
 CCTV-14少儿,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
 CCTV-15音乐,http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
+CCTV-16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000#https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000#https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
 CCTV17,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 CCTV-4欧洲,http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
 CCTV-4美洲,http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
@@ -27,7 +28,7 @@ CGTN俄语,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 4KAVS2,http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
 
 卫视频道,#genre#
-山东卫视,http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
+山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000#https://live.goodiptv.club/api/ghyx.php?id=ShanDongHD_6000#https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000#http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
 北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
 浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
@@ -255,8 +256,8 @@ CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_
 BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 
 地方频道,#genre#
-凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
-凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8#https://live.goodiptv.club/api/sxg.php?id=test1_4000
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8#https://live.goodiptv.club/api/sxg.php?id=test2_4000
 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 浙江6套,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
