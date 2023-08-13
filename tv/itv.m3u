@@ -57,7 +57,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000664/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
+http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
