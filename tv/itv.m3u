@@ -137,6 +137,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/sheng/sdnongke.png" tvg-name="山东农科" group-title="省内频道",山东农科
 http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/sheng/sdqilu.png" tvg-name="山东齐鲁" group-title="省内频道",山东齐鲁
+http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/sheng/sdgonggong.png" tvg-name="山东新闻" group-title="省内频道",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/sheng/sdtiyu.png" tvg-name="山东体育" group-title="省内频道",山东体育
@@ -400,8 +402,6 @@ http://150.138.8.143/00/SNM/CHANNEL00001011/index.m3u8
 
 
 失效源,#genre#
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/sheng/sdqilu.png" tvg-name="山东齐鲁" group-title="省内频道",山东齐鲁
-http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
 #EXTINF:-1 tvg-name="济南科教" group-title="省内频道",济南科教
 http://150.138.8.143/00/SNM/CHANNEL00000245/index.m3u8
 #EXTINF:-1 tvg-name="济南商务" group-title="省内频道",济南商务
