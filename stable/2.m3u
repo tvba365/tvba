@@ -51,10 +51,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-name="CGTN俄语" group-title="央视频道",CGTN俄语
 http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
-#EXTINF:-1 tvg-name="8K测试" group-title="央视频道",8K测试
-http://150.138.8.143/00/SNM/CHANNEL00000664/index.m3u8
-#EXTINF:-1 tvg-name="4KAVS2" group-title="央视频道",4KAVS2
-http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
