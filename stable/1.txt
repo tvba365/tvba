@@ -25,7 +25,6 @@ CGTN西班牙语,http://150.138.8.143/00/SNM/CHANNEL00000354/index.m3u8
 CGTN法语,http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8
 CGTN阿拉伯语,http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
 CGTN俄语,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
-4KAVS2,http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
 
 卫视频道,#genre#
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL20000003/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
