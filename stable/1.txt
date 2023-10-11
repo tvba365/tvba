@@ -173,12 +173,13 @@ QTV-6-SD,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 安丘综合,http://150.138.8.143/00/SNM/CHANNEL00001015/index.m3u8
 昌乐综合,http://150.138.8.143/00/SNM/CHANNEL00001033/index.m3u8
 青州综合,http://150.138.8.143/00/SNM/CHANNEL00001042/index.m3u8
+青州文化旅游,http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
 昌邑综合,http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
 临朐综合,http://150.138.8.143/00/SNM/CHANNEL00001085/index.m3u8
 寿光蔬菜,http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
 寿光综合-SD,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 诸城新闻综合-SD,http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
-青州文化旅游-SD,http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
+
 滨州新闻综合-SD,http://150.138.8.143/00/SNM/CHANNEL00000220/index.m3u8
 滨州民生-SD,http://150.138.8.143/00/SNM/CHANNEL00000221/index.m3u8
 惠民综合-SD,http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
@@ -195,12 +196,12 @@ QTV-6-SD,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 东营广饶综合,http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
 东营新闻综合-SD,http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
 东营公共-SD,http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
+日照岚山,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+日照莒县,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
 日照新闻综合-SD,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照公共-SD,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
 日照科教-SD,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
-日照岚山-SD,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
 日照五莲综合-SD,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
-日照莒县-SD,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
 广东大湾区卫视-SD,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
 CHC动作电影,https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
 CHC高清电影,https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
@@ -274,13 +275,8 @@ BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8#http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 新郑综合,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8#http://live.dxhmt.cn:9081/tv/10184-1.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8#http://live.dxhmt.cn:9081/tv/10185-1.m3u8
-安阳新闻综合,http://live.dxhmt.cn:9080/18625858176/8693466e9b97442f8c7743905c10eedf.m3u8
-安阳公共,http://live.dxhmt.cn:9080/18625858176/196a29fbe1224599856553f16a8de8ea.m3u8#http://live.dxhmt.cn:9080/18625858176/b53f118c3ffc4a5c82b6f14b8301fd17.m3u8
-安阳科教,http://live.dxhmt.cn:9080/18625858176/122171afa19f47e98ce0a5ed4a7f2713.m3u8#http://live.dxhmt.cn:9080/18625858176/f392f86c91c74101b1873bdf7f40b8bc.m3u8
 安阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8#http://live.dxhmt.cn:9081/tv/10522-1.m3u8
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8#http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-滑县民生,http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8#http://live.dxhmt.cn:9081/tv/10526-2.m3u8
-滑县快乐3,http://tvpull.dxhmt.cn:9081/tv/10526-3.m3u8 #http://live.dxhmt.cn:9081/tv/10526-3.m3u8
 林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8#http://live.dxhmt.cn:9081/tv/10581-1.m3u8
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8#http://live.dxhmt.cn:9081/tv/10527-1.m3u8
 汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8#http://live.dxhmt.cn:9081/tv/10523-1.m3u8
@@ -295,13 +291,11 @@ BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 镇平新闻综合,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8#http://live.dxhmt.cn:9081/tv/11324-1.m3u8
 栾川新闻,http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8#http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 孟津新闻,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8#http://live.dxhmt.cn:9081/tv/10322-2.m3u8
-孟津生活,http://tvpull.dxhmt.cn:9081/tv/10322-1.m3u8#http://live.dxhmt.cn:9081/tv/10322-1.m3u8
 汝阳综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8#http://live.dxhmt.cn:9081/tv/10326-1.m3u8
 嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8#http://live.dxhmt.cn:9081/tv/10325-1.m3u8
 新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8#http://live.dxhmt.cn:9081/tv/10323-1.m3u8
 伊川电视台,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8#http://live.dxhmt.cn:9081/tv/10329-1.m3u8
 偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8#http://live.dxhmt.cn:9081/tv/10381-1.m3u8
-偃师文化生活,http://tvpull.dxhmt.cn:9081/tv/10381-2.m3u8#http://live.dxhmt.cn:9081/tv/10381-2.m3u8
 宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8#http://live.dxhmt.cn:9081/tv/10327-1.m3u8
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
@@ -310,7 +304,7 @@ BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 孟州综合,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8#http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8#http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8#http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-武陟新闻综合,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8  #http://live.dxhmt.cn:9081/tv/10823-1.m3u8#http://live.dxhmt.cn:9080/wuzhiAdmin/719b76b2e06e456e9b30ad2b03e9122d.m3u8
+武陟新闻综合,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8#http://live.dxhmt.cn:9081/tv/10823-1.m3u8
 建安综合,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8#http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 襄城综合,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8#http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8#http://live.dxhmt.cn:9081/tv/11024-1.m3u8
@@ -329,7 +323,6 @@ BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8#http://live.dxhmt.cn:9081/tv/11627-1.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8#http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8#http://live.dxhmt.cn:9081/tv/11622-1.m3u8
-夏邑新闻,http://tvpull.dxhmt.cn:9081/tv/11426-1.m3u8#http://live.dxhmt.cn:9081/tv/11426-1.m3u8
 永城新闻,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8#http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 永城民生,http://tvpull.dxhmt.cn:9081/tv/11481-2.m3u8#http://live.dxhmt.cn:9081/tv/11481-2.m3u8
 永城卫健,http://tvpull.dxhmt.cn/tv/11481-3.m3u8#http://live.dxhmt.cn:9081/tv/11481-3.m3u8
@@ -367,23 +360,16 @@ BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8#http://live.dxhmt.cn:9081/tv/10781-1.m3u8
 新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8#http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 原阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8#http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-平顶山新闻,http://live.dxhmt.cn:9080/13619822555/4ce2b9b6947043b388916f748a518953.m3u8
-平顶山城市,http://live.dxhmt.cn:9080/13619822555/29df489f23274977826bb0c55cb0411d.m3u8
-平顶山公共,http://live.dxhmt.cn:9080/13619822555/5cc9016a17a54af6803096eec26fdd74.m3u8
-清风平顶山,http://live.dxhmt.cn:9080/13619822555/ff0d20a1d7c840a3850bfdab119943ac.m3u8
-平顶山民生,http://live.dxhmt.cn:9080/13619822555/b119d353d9fe4ee0ad34056550705665.m3u8
 宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8#http://live.dxhmt.cn:9081/tv/10421-1.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8#http://live.dxhmt.cn:9081/tv/10425-1.m3u8
 鲁山综合,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8#http://live.dxhmt.cn:9081/tv/10423-1.m3u8
 汝州新闻,http://tvpull.dxhmt.cn:9081/tv/10482-1.m3u8#http://live.dxhmt.cn:9081/tv/10482-1.m3u8
 汝州科教,http://tvpull.dxhmt.cn:9081/tv/10482-2.m3u8#http://live.dxhmt.cn:9081/tv/10482-2.m3u8
-舞钢新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8#http://live.dxhmt.cn:9081/tv/10481-1.m3u8#http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
-舞钢社会生活,http://live.dxhmt.cn:9080/13937510433/163e693acc664e7980b44f105d696a42.m3u8
+舞钢新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8#http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8#http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-范县新闻综合,http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
 南乐综合,http://tvpull.dxhmt.cn:9081/tv/10923-1.m3u8#http://live.dxhmt.cn:9081/tv/10923-1.m3u8
-清丰综合,http://tvpull.dxhmt.cn:9081/tv/10922-1.m3u8#http://live.dxhmt.cn:9081/tv/10922-1.m3u8
 台前新闻综合,http://tvpull.dxhmt.cn:9081/tv/10927-1.m3u8#http://live.dxhmt.cn:9081/tv/10927-1.m3u8
+范县新闻综合-SD,http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
 
 广播电台,#genre#
 山东人民,http://150.138.8.143/00/SNM/CHANNEL00004008/index.m3u8
