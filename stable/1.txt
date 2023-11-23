@@ -15,7 +15,8 @@ CCTV-12社会与法,http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
 CCTV-13新闻,http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
 CCTV-14少儿,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
 CCTV-15音乐,http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
-CCTV17,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
+CCTV-16奥林匹克,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+CCTV-17农业农村,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 CCTV-4欧洲,http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
 CCTV-4美洲,http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
@@ -73,6 +74,8 @@ CGTN俄语,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
 山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+上海纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
+海洋频道,http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
 济南新闻,http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
 济南鲁中-SD,http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
@@ -86,8 +89,6 @@ CGTN俄语,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 历城综合-SD,http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
 长清综合-SD,http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
 平阴综合-SD,http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
-上海纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
-海洋频道,http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
 QTV-1-SD,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 QTV-2-SD,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 QTV-3-SD,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
@@ -201,9 +202,9 @@ QTV-6-SD,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 日照科教-SD,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照五莲综合-SD,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 广东大湾区卫视-SD,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
-CHC动作电影,https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
-CHC高清电影,https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
-CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
+CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV1,http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
 CETV2-SD,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
@@ -247,11 +248,12 @@ CETV4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 4K影视,http://nas.jdshipin.com:8801/4kys.php
 江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 地方频道,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 浙江6套,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
