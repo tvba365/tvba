@@ -167,23 +167,23 @@ http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001008/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="济阳综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济阳综合.png" group-title="省内频道",济阳综合
 http://150.138.8.143/00/SNM/CHANNEL00001030/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="历城综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/历城综合-SD.png" group-title="省内频道",历城综合-SD
+#EXTINF:-1 tvg-id="84" tvg-name="历城综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/历城综合.png" group-title="省内频道",历城综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="长清综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/长清综合-SD.png" group-title="省内频道",长清综合-SD
+#EXTINF:-1 tvg-id="85" tvg-name="长清综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/长清综合.png" group-title="省内频道",长清综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
-#EXTINF:-1 tvg-id="86" tvg-name="平阴综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/平阴综合-SD.png" group-title="省内频道",平阴综合-SD
+#EXTINF:-1 tvg-id="86" tvg-name="平阴综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/平阴综合.png" group-title="省内频道",平阴综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
-#EXTINF:-1 tvg-id="87" tvg-name="QTV-1-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-1-SD.png" group-title="省内频道",QTV-1-SD
+#EXTINF:-1 tvg-id="87" tvg-name="QTV-1-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-1.png" group-title="省内频道",QTV-1-青岛新闻综合频道-SD
 http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
-#EXTINF:-1 tvg-id="88" tvg-name="QTV-2-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-2-SD.png" group-title="省内频道",QTV-2-SD
+#EXTINF:-1 tvg-id="88" tvg-name="QTV-2-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-2.png" group-title="省内频道",QTV-2-青岛公共生活频道-SD
 http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="QTV-3-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-3-SD.png" group-title="省内频道",QTV-3-SD
+#EXTINF:-1 tvg-id="89" tvg-name="QTV-3-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-3.png" group-title="省内频道",QTV-3-青岛影视频道-SD
 http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
-#EXTINF:-1 tvg-id="90" tvg-name="QTV-4-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-4-SD.png" group-title="省内频道",QTV-4-SD
+#EXTINF:-1 tvg-id="90" tvg-name="QTV-4-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-4.png" group-title="省内频道",QTV-4-青岛休闲资讯频道-SD
 http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
-#EXTINF:-1 tvg-id="91" tvg-name="QTV-5-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-5-SD.png" group-title="省内频道",QTV-5-SD
+#EXTINF:-1 tvg-id="91" tvg-name="QTV-5-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-5.png" group-title="省内频道",QTV-5-青岛都市频道-SD
 http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
-#EXTINF:-1 tvg-id="92" tvg-name="QTV-6-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-6-SD.png" group-title="省内频道",QTV-6-SD
+#EXTINF:-1 tvg-id="92" tvg-name="QTV-6-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/QTV-6.png" group-title="省内频道",QTV-6-青岛青少旅游频道-SD
 http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 #EXTINF:-1 tvg-id="93" tvg-name="平度新闻综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/平度新闻综合.png" group-title="省内频道",平度新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
