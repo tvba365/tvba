@@ -284,11 +284,11 @@ http://150.138.8.143/00/SNM/CHANNEL00001070/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001082/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="临邑综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/临邑综合.png" group-title="省内频道",临邑综合
 http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="菏泽HZTV-1-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/菏泽HZTV-1-SD.png" group-title="省内频道",菏泽HZTV-1-SD
+#EXTINF:-1 tvg-id="143" tvg-name="菏泽HZTV-1-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/菏泽HZTV-1.png" group-title="省内频道",菏泽新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="菏泽HZTV-2-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/菏泽HZTV-2-SD.png" group-title="省内频道",菏泽HZTV-2-SD
+#EXTINF:-1 tvg-id="144" tvg-name="菏泽HZTV-2-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/菏泽HZTV-2.png" group-title="省内频道",菏泽经济生活
 http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="东明TV-1-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东明TV-1-SD.png" group-title="省内频道",东明TV-1-SD
+#EXTINF:-1 tvg-id="145" tvg-name="东明TV-1-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东明TV-1.png" group-title="省内频道",东明TV-1-SD
 http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="郓城新闻" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/郓城新闻.png" group-title="省内频道",郓城新闻
 http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
