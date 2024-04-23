@@ -237,27 +237,26 @@ http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
 #EXTINF:-1 tvg-id="118" tvg-name="淄博桓台综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/淄博桓台综合.png" group-title="省内频道",淄博桓台综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="泰安东平综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/泰安东平综合.png" group-title="省内频道",泰安东平综合
-http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="泰安宁阳综合频道" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/泰安宁阳综合频道.png" group-title="省内频道",泰安宁阳综合频道
+#EXTINF:-1 tvg-id="119" tvg-name="泰安东平综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东平综合.png" group-title="省内频道",泰安东平综合http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="泰安宁阳综合频道" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/宁阳.png" group-title="省内频道",泰安宁阳综合频道
 http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
-#EXTINF:-1 tvg-id="121" tvg-name="泰安新泰综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/泰安新泰综合-SD.png" group-title="省内频道",泰安新泰综合-SD
+#EXTINF:-1 tvg-id="121" tvg-name="泰安新泰综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/新泰综合.png" group-title="省内频道",泰安新泰综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001029/index.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="泰安新泰乡村-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/泰安新泰乡村-SD.png" group-title="省内频道",泰安新泰乡村-SD
+#EXTINF:-1 tvg-id="122" tvg-name="泰安新泰乡村-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/新泰乡村.png" group-title="省内频道",泰安新泰乡村-SD
 http://150.138.8.143/00/SNM/CHANNEL00001066/index.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="泰安宁阳-2-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/泰安宁阳-2-SD.png" group-title="省内频道",泰安宁阳-2-SD
+#EXTINF:-1 tvg-id="123" tvg-name="泰安宁阳-2-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/宁阳.png" group-title="省内频道",泰安宁阳-2-SD
 http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="临沂蒙阴综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/临沂蒙阴综合-SD.png" group-title="省内频道",临沂蒙阴综合-SD
+#EXTINF:-1 tvg-id="124" tvg-name="临沂蒙阴综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/蒙阴综合.png" group-title="省内频道",临沂蒙阴综合
 http://150.138.8.143/00/SNM/CHANNEL00001031/index.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="临沂兰陵综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/临沂兰陵综合.png" group-title="省内频道",临沂兰陵综合
+#EXTINF:-1 tvg-id="125" tvg-name="临沂兰陵综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/兰陵.png" group-title="省内频道",临沂兰陵综合
 http://150.138.8.143/00/SNM/CHANNEL00001032/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="兰陵公共" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/兰陵公共.png" group-title="省内频道",兰陵公共
+#EXTINF:-1 tvg-id="126" tvg-name="兰陵公共" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/兰陵.png" group-title="省内频道",兰陵公共
 http://150.138.8.143/00/SNM/CHANNEL00001095/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="沂水综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/沂水综合.png" group-title="省内频道",沂水综合
+#EXTINF:-1 tvg-id="127" tvg-name="沂水综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/沂水.png" group-title="省内频道",沂水综合
 http://150.138.8.143/00/SNM/CHANNEL00001098/index.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="沂水生活" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/沂水生活.png" group-title="省内频道",沂水生活
+#EXTINF:-1 tvg-id="128" tvg-name="沂水生活" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/沂水.png" group-title="省内频道",沂水生活
 http://150.138.8.143/00/SNM/CHANNEL00001099/index.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="莒南综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/莒南综合-SD.png" group-title="省内频道",莒南综合-SD
+#EXTINF:-1 tvg-id="129" tvg-name="莒南综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/莒南综合.png" group-title="省内频道",莒南综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001011/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="德州新闻" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/德州新闻.png" group-title="省内频道",德州新闻
 http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
@@ -267,7 +266,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="齐河综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/齐河综合.png" group-title="省内频道",齐河综合
 http://150.138.8.143/00/SNM/CHANNEL00001056/index.m3u8
-#EXTINF:-1 tvg-id="134" tvg-name="武城综合频道" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/武城综合频道.png" group-title="省内频道",武城综合频道
+#EXTINF:-1 tvg-id="134" tvg-name="武城综合频道" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/武城综合.png" group-title="省内频道",武城综合频道
 http://150.138.8.143/00/SNM/CHANNEL00001059/index.m3u8
 #EXTINF:-1 tvg-id="135" tvg-name="武城综艺影视" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/武城综艺影视.png" group-title="省内频道",武城综艺影视
 http://150.138.8.143/00/SNM/CHANNEL00001060/index.m3u8
@@ -399,6 +398,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 #EXTINF:-1 tvg-id="199" tvg-name="广东大湾区卫视-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/广东大湾区卫视-SD.png" group-title="省内频道",广东大湾区卫视-SD
 http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
+
 #EXTINF:-1 tvg-id="200" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CHC动作电影.png" group-title="其他频道",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CHC高清电影.png" group-title="其他频道",CHC高清电影
