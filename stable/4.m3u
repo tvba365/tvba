@@ -300,27 +300,27 @@ http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001046/index.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="莘县综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/莘县综合.png" group-title="省内频道",莘县综合
 http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
-#EXTINF:-1 tvg-id="151" tvg-name="济宁生活-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济宁生活-SD.png" group-title="省内频道",济宁生活-SD
+#EXTINF:-1 tvg-id="151" tvg-name="济宁生活-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济宁生活.png" group-title="省内频道",济宁生活-SD
 http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
-#EXTINF:-1 tvg-id="152" tvg-name="济宁公共-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济宁公共-SD.png" group-title="省内频道",济宁公共-SD
+#EXTINF:-1 tvg-id="152" tvg-name="济宁公共-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济宁公共.png" group-title="省内频道",济宁公共-SD
 http://150.138.8.143/00/SNM/CHANNEL00000241/index.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="济宁高新" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济宁高新.png" group-title="省内频道",济宁高新
-http://150.138.8.143/00/SNM/CHANNEL00001101/index.m3u8
-#EXTINF:-1 tvg-id="154" tvg-name="济宁综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济宁综合.png" group-title="省内频道",济宁综合
+#EXTINF:-1 tvg-id="153" tvg-name="济宁综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济宁综合.png" group-title="省内频道",济宁综合
 http://150.138.8.143/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1 tvg-id="154" tvg-name="济宁高新" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济宁高新.png" group-title="省内频道",济宁高新
+http://150.138.8.143/00/SNM/CHANNEL00001101/index.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="梁山综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/梁山综合.png" group-title="省内频道",梁山综合
 http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
 #EXTINF:-1 tvg-id="156" tvg-name="嘉祥综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/嘉祥综合.png" group-title="省内频道",嘉祥综合
 http://150.138.8.143/00/SNM/CHANNEL00001016/index.m3u8
 #EXTINF:-1 tvg-id="157" tvg-name="兖州新闻" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/兖州新闻.png" group-title="省内频道",兖州新闻
 http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
-#EXTINF:-1 tvg-id="158" tvg-name="曲阜新闻综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/曲阜新闻综合.png" group-title="省内频道",曲阜新闻综合
+#EXTINF:-1 tvg-id="158" tvg-name="曲阜新闻综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/曲阜新闻.png" group-title="省内频道",曲阜新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="邹城综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/邹城综合.png" group-title="省内频道",邹城综合
 http://150.138.8.143/00/SNM/CHANNEL00001038/index.m3u8
 #EXTINF:-1 tvg-id="160" tvg-name="鱼台生活" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/鱼台生活.png" group-title="省内频道",鱼台生活
 http://150.138.8.143/00/SNM/CHANNEL00001108/index.m3u8
-#EXTINF:-1 tvg-id="161" tvg-name="鱼台新闻" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/鱼台新闻.png" group-title="省内频道",鱼台新闻
+#EXTINF:-1 tvg-id="161" tvg-name="鱼台新闻" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/鱼台综合.png" group-title="省内频道",鱼台综合
 http://150.138.8.143/00/SNM/CHANNEL00001107/index.m3u8
 #EXTINF:-1 tvg-id="162" tvg-name="潍坊综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/潍坊综合.png" group-title="省内频道",潍坊综合
 http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
