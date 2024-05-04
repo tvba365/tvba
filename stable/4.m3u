@@ -326,12 +326,12 @@ http://150.138.8.143/00/SNM/CHANNEL00001107/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
 #EXTINF:-1 tvg-id="163" tvg-name="潍坊经济生活" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/潍坊经济生活.png" group-title="省内频道",潍坊经济生活
 http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
-#EXTINF:-1 tvg-id="164" tvg-name="潍坊高新" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/潍坊高新.png" group-title="省内频道",潍坊高新
-http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="潍坊影视" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/潍坊影视.png" group-title="省内频道",潍坊影视
+#EXTINF:-1 tvg-id="164" tvg-name="潍坊影视" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/潍坊影视.png" group-title="省内频道",潍坊影视
 http://150.138.8.143/00/SNM/CHANNEL00000217/index.m3u8
-#EXTINF:-1 tvg-id="166" tvg-name="潍坊科教" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/潍坊科教.png" group-title="省内频道",潍坊科教
+#EXTINF:-1 tvg-id="165" tvg-name="潍坊科教" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/潍坊科教.png" group-title="省内频道",潍坊科教
 http://150.138.8.143/00/SNM/CHANNEL00000218/index.m3u8
+#EXTINF:-1 tvg-id="166" tvg-name="潍坊高新" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/潍坊高新.png" group-title="省内频道",潍坊高新
+http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
 #EXTINF:-1 tvg-id="167" tvg-name="高密综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/高密综合.png" group-title="省内频道",高密综合
 http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
 #EXTINF:-1 tvg-id="168" tvg-name="安丘综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/安丘综合.png" group-title="省内频道",安丘综合
@@ -340,7 +340,7 @@ http://150.138.8.143/00/SNM/CHANNEL00001015/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001033/index.m3u8
 #EXTINF:-1 tvg-id="170" tvg-name="青州综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/青州综合.png" group-title="省内频道",青州综合
 http://150.138.8.143/00/SNM/CHANNEL00001042/index.m3u8
-#EXTINF:-1 tvg-id="171" tvg-name="青州文化旅游" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/青州文化旅游.png" group-title="省内频道",青州文化旅游
+#EXTINF:-1 tvg-id="171" tvg-name="青州文化旅游" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/青州文旅.png" group-title="省内频道",青州文化旅游
 http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
 #EXTINF:-1 tvg-id="172" tvg-name="昌邑综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/昌邑综合.png" group-title="省内频道",昌邑综合
 http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
@@ -348,9 +348,9 @@ http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001085/index.m3u8
 #EXTINF:-1 tvg-id="174" tvg-name="寿光蔬菜" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/寿光蔬菜.png" group-title="省内频道",寿光蔬菜
 http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
-#EXTINF:-1 tvg-id="175" tvg-name="寿光综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/寿光综合-SD.png" group-title="省内频道",寿光综合-SD
+#EXTINF:-1 tvg-id="175" tvg-name="寿光综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/寿光综合.png" group-title="省内频道",寿光综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
-#EXTINF:-1 tvg-id="176" tvg-name="诸城新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/诸城新闻综合-SD.png" group-title="省内频道",诸城新闻综合-SD
+#EXTINF:-1 tvg-id="176" tvg-name="诸城新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/诸城新闻.png" group-title="省内频道",诸城新闻综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
 #EXTINF:-1 tvg-id="177" tvg-name="滨州新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/滨州新闻综合-SD.png" group-title="省内频道",滨州新闻综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00000220/index.m3u8
