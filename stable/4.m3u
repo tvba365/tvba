@@ -122,24 +122,26 @@ http://150.138.8.143/00/SNM/CHANNEL00000072/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="三沙卫视-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/三沙卫视.png" group-title="卫视频道",三沙卫视-SD
 http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="广东大湾区卫视-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/广东大湾区卫视.png" group-title="省内频道",广东大湾区卫视-SD
+http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
 
-#EXTINF:-1 tvg-id="62" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东齐鲁.png" group-title="省内频道",山东齐鲁
+#EXTINF:-1 tvg-id="63" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东齐鲁.png" group-title="省内频道",山东齐鲁
 http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东新闻.png" group-title="省内频道",山东新闻
+#EXTINF:-1 tvg-id="64" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东新闻.png" group-title="省内频道",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东体育.png" group-title="省内频道",山东体育
+#EXTINF:-1 tvg-id="65" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东体育.png" group-title="省内频道",山东体育
 http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东生活.png" group-title="省内频道",山东生活
+#EXTINF:-1 tvg-id="66" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东生活.png" group-title="省内频道",山东生活
 http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东文旅.png" group-title="省内频道",山东文旅
+#EXTINF:-1 tvg-id="67" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东文旅.png" group-title="省内频道",山东文旅
 http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东综艺.png" group-title="省内频道",山东综艺
+#EXTINF:-1 tvg-id="68" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东综艺.png" group-title="省内频道",山东综艺
 http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东农科.png" group-title="省内频道",山东农科
+#EXTINF:-1 tvg-id="69" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东农科.png" group-title="省内频道",山东农科
 http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东少儿.png" group-title="省内频道",山东少儿
+#EXTINF:-1 tvg-id="70" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东少儿.png" group-title="省内频道",山东少儿
 http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东教育.png" group-title="省内频道",山东教育
+#EXTINF:-1 tvg-id="71" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东教育.png" group-title="省内频道",山东教育
 http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="上海纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/纪实人文.png" group-title="省内频道",上海纪实人文
 http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
@@ -350,25 +352,25 @@ http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 #EXTINF:-1 tvg-id="176" tvg-name="诸城新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/诸城新闻.png" group-title="省内频道",诸城新闻综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
-#EXTINF:-1 tvg-id="177" tvg-name="滨州新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/滨州新闻综合-SD.png" group-title="省内频道",滨州新闻综合-SD
+#EXTINF:-1 tvg-id="177" tvg-name="滨州新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/滨州综合.png" group-title="省内频道",滨州新闻综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00000220/index.m3u8
-#EXTINF:-1 tvg-id="178" tvg-name="滨州民生-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/滨州民生-SD.png" group-title="省内频道",滨州民生-SD
+#EXTINF:-1 tvg-id="178" tvg-name="滨州民生-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/滨州民生.png" group-title="省内频道",滨州民生-SD
 http://150.138.8.143/00/SNM/CHANNEL00000221/index.m3u8
-#EXTINF:-1 tvg-id="179" tvg-name="惠民综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/惠民综合-SD.png" group-title="省内频道",惠民综合-SD
+#EXTINF:-1 tvg-id="179" tvg-name="惠民综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/惠民综合.png" group-title="省内频道",惠民综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
-#EXTINF:-1 tvg-id="180" tvg-name="沾化综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/沾化综合-SD.png" group-title="省内频道",沾化综合-SD
+#EXTINF:-1 tvg-id="180" tvg-name="沾化综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/沾化综合.png" group-title="省内频道",沾化综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001035/index.m3u8
-#EXTINF:-1 tvg-id="181" tvg-name="阳信新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/阳信新闻综合-SD.png" group-title="省内频道",阳信新闻综合-SD
+#EXTINF:-1 tvg-id="181" tvg-name="阳信新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/阳信新闻综合.png" group-title="省内频道",阳信新闻综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001036/index.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="无棣综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/无棣综合.png" group-title="省内频道",无棣综合
 http://150.138.8.143/00/SNM/CHANNEL00001024/index.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="邹平综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/邹平综合.png" group-title="省内频道",邹平综合
 http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
-#EXTINF:-1 tvg-id="184" tvg-name="聊城综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/聊城综合-SD.png" group-title="省内频道",聊城综合-SD
+#EXTINF:-1 tvg-id="184" tvg-name="聊城综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/聊城综合.png" group-title="省内频道",聊城综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
-#EXTINF:-1 tvg-id="185" tvg-name="聊城民生-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/聊城民生-SD.png" group-title="省内频道",聊城民生-SD
+#EXTINF:-1 tvg-id="185" tvg-name="聊城民生-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/聊城民生.png" group-title="省内频道",聊城民生-SD
 http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
-#EXTINF:-1 tvg-id="186" tvg-name="冠县综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/冠县综合-SD.png" group-title="省内频道",冠县综合-SD
+#EXTINF:-1 tvg-id="186" tvg-name="冠县综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/冠县综合.png" group-title="省内频道",冠县综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
 #EXTINF:-1 tvg-id="187" tvg-name="茌平综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/茌平综合.png" group-title="省内频道",茌平综合
 http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
@@ -376,27 +378,24 @@ http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001093/index.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="临清综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/临清综合.png" group-title="省内频道",临清综合
 http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
-#EXTINF:-1 tvg-id="190" tvg-name="东营广饶综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东营广饶综合.png" group-title="省内频道",东营广饶综合
+#EXTINF:-1 tvg-id="190" tvg-name="东营广饶综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/广饶综合.png" group-title="省内频道",东营广饶综合
 http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
-#EXTINF:-1 tvg-id="191" tvg-name="东营新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东营新闻综合-SD.png" group-title="省内频道",东营新闻综合-SD
+#EXTINF:-1 tvg-id="191" tvg-name="东营新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东营综合.png" group-title="省内频道",东营新闻综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
-#EXTINF:-1 tvg-id="192" tvg-name="东营公共-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东营公共-SD.png" group-title="省内频道",东营公共-SD
+#EXTINF:-1 tvg-id="192" tvg-name="东营公共-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东营公共.png" group-title="省内频道",东营公共-SD
 http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
 #EXTINF:-1 tvg-id="193" tvg-name="日照岚山" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照岚山.png" group-title="省内频道",日照岚山
 http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
 #EXTINF:-1 tvg-id="194" tvg-name="日照莒县" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照莒县.png" group-title="省内频道",日照莒县
 http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
-#EXTINF:-1 tvg-id="195" tvg-name="日照新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照新闻综合-SD.png" group-title="省内频道",日照新闻综合-SD
+#EXTINF:-1 tvg-id="195" tvg-name="日照新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照综合.png" group-title="省内频道",日照新闻综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
-#EXTINF:-1 tvg-id="196" tvg-name="日照公共-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照公共-SD.png" group-title="省内频道",日照公共-SD
+#EXTINF:-1 tvg-id="196" tvg-name="日照公共-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照公共.png" group-title="省内频道",日照公共-SD
 http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
-#EXTINF:-1 tvg-id="197" tvg-name="日照科教-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照科教-SD.png" group-title="省内频道",日照科教-SD
+#EXTINF:-1 tvg-id="197" tvg-name="日照科教-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照科教.png" group-title="省内频道",日照科教-SD
 http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
-#EXTINF:-1 tvg-id="198" tvg-name="日照五莲综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照五莲综合-SD.png" group-title="省内频道",日照五莲综合-SD
+#EXTINF:-1 tvg-id="198" tvg-name="日照五莲综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照五莲.png" group-title="省内频道",日照五莲综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
-#EXTINF:-1 tvg-id="199" tvg-name="广东大湾区卫视-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/广东大湾区卫视-SD.png" group-title="省内频道",广东大湾区卫视-SD
-http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
-
 #EXTINF:-1 tvg-id="200" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CHC动作电影.png" group-title="其他频道",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CHC高清电影.png" group-title="其他频道",CHC高清电影
