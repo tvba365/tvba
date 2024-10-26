@@ -133,7 +133,7 @@ http://192.168.100.1:4022/rtp/239.21.2.133:5002
 http://192.168.100.1:4022/rtp/239.21.1.134:5002
 #EXTINF:-1 tvg-id="66" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东新闻.png" group-title="省内频道",山东新闻
 http://192.168.100.1:4022/rtp/239.21.1.140:5002
-#EXTINF:-1 tvg-id="67" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东体育.png" group-title="省内频道",山东体育
+#EXTINF:-1 tvg-id="67" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东体育.png" group-title="省内频道",山东体育休闲
 http://192.168.100.1:4022/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="68" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东体育.png" group-title="省内频道",山东体育休闲
 http://192.168.100.1:4022/rtp/239.21.1.95:5002
