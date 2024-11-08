@@ -181,7 +181,6 @@ http://39.136.24.220:8089/PLTV/88888888/224/3221226472/index.m3u8
 http://39.136.24.220:8089/PLTV/88888888/224/3221226607/index.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://39.136.24.220:8089/PLTV/88888888/224/3221226474/index.m3u8
-
 #EXTINF:-1 tvg-id="90" tvg-name="咪咕视频" tvg-logo="https://gitee.com/raycn120/tvbox/raw/master/live/logo/咪咕视频.png" group-title="数字频道",咪咕视频
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="咪咕视频" tvg-logo="https://gitee.com/raycn120/tvbox/raw/master/live/logo/咪咕视频.png" group-title="数字频道",咪咕视频
