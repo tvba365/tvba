@@ -119,13 +119,13 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东农科.png" group-title="省内频道",山东农科
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东少儿.png" group-title="省内频道",山东少儿
+#EXTINF:-1 tvg-id="60" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东教育.png" group-title="文化频道",山东教育卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东少儿.png" group-title="省内频道",山东少儿
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
 
-#EXTINF:-1 tvg-id="61" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CETV1.png" group-title="文化频道",CETV1
+#EXTINF:-1 tvg-id="62" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CETV1.png" group-title="文化频道",CETV1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/山东教育卫视.png" group-title="文化频道",山东教育卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实科教.png" group-title="文化频道",纪实科教
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实人文.png" group-title="文化频道",纪实人文
