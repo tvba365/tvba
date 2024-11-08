@@ -124,9 +124,9 @@ http://39.136.24.220:8089/PLTV/88888888/224/3221226195/index.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CETV1.png" group-title="文化频道",CETV1
 http://39.136.24.220:8089/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实科教.png" group-title="文化频道",纪实科教
+#EXTINF:-1 tvg-id="62" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/北京纪实科教.png" group-title="文化频道",纪实科教
 http://39.136.24.220:8089/PLTV/88888888/224/3221226601/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实人文.png" group-title="文化频道",纪实人文
+#EXTINF:-1 tvg-id="63" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/纪实人文.png" group-title="文化频道",纪实人文
 http://39.136.24.220:8089/PLTV/88888888/224/3221226499/index.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/金鹰纪实.png" group-title="文化频道",金鹰纪实
 http://39.136.24.220:8089/PLTV/88888888/224/3221226386/index.m3u8
@@ -181,6 +181,7 @@ http://39.136.24.220:8089/PLTV/88888888/224/3221226472/index.m3u8
 http://39.136.24.220:8089/PLTV/88888888/224/3221226607/index.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://39.136.24.220:8089/PLTV/88888888/224/3221226474/index.m3u8
+
 #EXTINF:-1 tvg-id="90" tvg-name="咪咕视频" tvg-logo="https://gitee.com/raycn120/tvbox/raw/master/live/logo/咪咕视频.png" group-title="数字频道",咪咕视频
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="咪咕视频" tvg-logo="https://gitee.com/raycn120/tvbox/raw/master/live/logo/咪咕视频.png" group-title="数字频道",咪咕视频
