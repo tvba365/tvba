@@ -143,10 +143,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东教育.png" group-title="省内频道",山东教育
 http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="上海纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/纪实人文.png" group-title="省内频道",上海纪实人文
-http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/海洋频道.png" group-title="省内频道",海洋频道
-http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="济南新闻" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济南新闻.png" group-title="省内频道",济南新闻
 http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="济南教育" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/济南教育.png" group-title="省内频道",济南教育
@@ -237,7 +233,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
 #EXTINF:-1 tvg-id="118" tvg-name="淄博桓台综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/淄博桓台综合.png" group-title="省内频道",淄博桓台综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="泰安东平综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东平综合.png" group-title="省内频道",泰安东平综合http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="泰安东平综合" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/东平综合.png" group-title="省内频道",泰安东平综合
+http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-name="泰安宁阳综合频道" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/宁阳综合.png" group-title="省内频道",泰安宁阳综合频道
 http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="泰安宁阳-2-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/泰安宁阳-2.png" group-title="省内频道",泰安宁阳-2-SD
@@ -409,6 +406,12 @@ http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
 #EXTINF:-1 tvg-id="205" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/重温经典.png" group-title="其他频道",重温经典
 http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
+#EXTINF:-1 tvg-id="206" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/求索记录.png" group-title="其他频道",求索记录
+http://150.138.8.143/00/SNM/CHANNEL00000667/index.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实人文.png" group-title="省内频道",纪实人文
+http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
+#EXTINF:-1 tvg-id="208" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/海洋频道.png" group-title="省内频道",海洋频道
+http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
 #EXTINF:-1 tvg-id="206" tvg-name="中国教育CETV1" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CETV1.png" group-title="其他频道",中国教育CETV1
 http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 tvg-id="207" tvg-name="CETV2-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CETV2.png" group-title="其他频道",CETV2-SD
@@ -445,7 +448,7 @@ http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/动漫秀场.png" group-title="其他频道",动漫秀场
 http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
-#EXTINF:-1 tvg-id="224" tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/卡酷少儿.png" group-title="其他频道",卡酷少儿
+#EXTINF:-1 tvg-id="224" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/卡酷少儿.png" group-title="其他频道",卡酷少儿
 http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/金鹰卡通.png" group-title="其他频道",金鹰卡通
 http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
