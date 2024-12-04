@@ -39,6 +39,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/1/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/1/CCTV4K.png" group-title="央视频道",CCTV4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/1/CGTN.png" group-title="央视频道",CGTN
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/1/CGTN纪录.png" group-title="央视频道",CGTN纪录
