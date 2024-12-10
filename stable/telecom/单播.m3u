@@ -410,9 +410,9 @@ http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-id="206" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/求索记录.png" group-title="其他频道",求索记录
 http://150.138.8.143/00/SNM/CHANNEL00000667/index.m3u8
-#EXTINF:-1 tvg-id="207" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实人文.png" group-title="省内频道",纪实人文
+#EXTINF:-1 tvg-id="207" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实人文.png" group-title="其他频道",纪实人文
 http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
-#EXTINF:-1 tvg-id="208" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/海洋频道.png" group-title="省内频道",海洋频道
+#EXTINF:-1 tvg-id="208" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/海洋频道.png" group-title="其他频道",海洋频道
 http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
 #EXTINF:-1 tvg-id="206" tvg-name="中国教育CETV1" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CETV1.png" group-title="其他频道",中国教育CETV1
 http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
