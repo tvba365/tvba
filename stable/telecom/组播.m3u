@@ -446,7 +446,7 @@ http://127.0.0.1:4022/rtp/239.21.2.77:5002
 http://127.0.0.1:4022/rtp/239.21.2.90:5002
 #EXTINF:-1 tvg-id="222" tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/NHKWorld.png" group-title="数字频道",NHKWorld
 http://127.0.0.1:4022/rtp/239.21.1.98:5002
-#EXTINF:-1 tvg-id="222" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/求索记录.png" group-title="数字频道",求索记录
+#EXTINF:-1 tvg-id="222" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/求索纪录.png" group-title="数字频道",求索纪录
 http://127.0.0.1:4022/rtp/239.21.2.159:5002
 #EXTINF:-1 tvg-id="223" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实人文.png" group-title="数字频道",纪实人文
 http://127.0.0.1:4022/rtp/239.21.1.171:5002
