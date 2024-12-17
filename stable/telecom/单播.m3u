@@ -385,8 +385,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
 #EXTINF:-1 tvg-id="193" tvg-name="日照岚山" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照岚山.png" group-title="省内频道",日照岚山
 http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
-#EXTINF:-1 tvg-id="194" tvg-name="日照莒县" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照莒县.png" group-title="省内频道",日照莒县
-http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
 #EXTINF:-1 tvg-id="195" tvg-name="日照新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照综合.png" group-title="省内频道",日照新闻综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 #EXTINF:-1 tvg-id="196" tvg-name="日照公共-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照公共.png" group-title="省内频道",日照公共-SD
