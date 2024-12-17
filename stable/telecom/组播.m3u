@@ -126,8 +126,6 @@ http://127.0.0.1:4022/rtp/239.21.2.6:5002
 http://127.0.0.1:4022/rtp/239.21.2.9:5002
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/延边卫视.png" group-title="卫视频道",延边卫视-SD
 http://127.0.0.1:4022/rtp/239.21.2.137:5002
-#EXTINF:-1 tvg-id="64" tvg-name="广东大湾区卫视-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/广东大湾区卫视.png" group-title="卫视频道",广东大湾区卫视-SD
-http://127.0.0.1:4022/rtp/239.21.2.133:5002
 
 #EXTINF:-1 tvg-id="65" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/山东齐鲁.png" group-title="省内频道",山东齐鲁
 http://127.0.0.1:4022/rtp/239.21.1.134:5002
@@ -419,8 +417,6 @@ http://127.0.0.1:4022/rtp/239.21.1.81:5002
 http://127.0.0.1:4022/rtp/239.21.1.82:5002
 #EXTINF:-1 tvg-id="209" tvg-name="日照岚山" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照岚山.png" group-title="省内频道",日照岚山
 http://127.0.0.1:4022/rtp/239.21.1.209:5002
-#EXTINF:-1 tvg-id="210" tvg-name="日照莒县" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照莒县.png" group-title="省内频道",日照莒县
-http://127.0.0.1:4022/rtp/239.21.1.236:5002
 #EXTINF:-1 tvg-id="211" tvg-name="日照新闻综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照综合.png" group-title="省内频道",日照新闻综合-SD
 http://127.0.0.1:4022/rtp/239.21.1.79:5002
 #EXTINF:-1 tvg-id="212" tvg-name="日照公共-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照公共.png" group-title="省内频道",日照公共-SD
