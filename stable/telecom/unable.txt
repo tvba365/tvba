@@ -1,0 +1,8 @@
+日照莒县,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
+滕州,http://192.168.100.1:4022/rtp/239.21.1.178:5002
+日照莒县,http://192.168.100.1:4022/rtp/239.21.1.236:5002
+
+#EXTINF:-1 tvg-id="194" tvg-name="日照莒县" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照莒县.png" group-title="省内频道",日照莒县
+http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
+#EXTINF:-1 tvg-id="64" tvg-name="广东大湾区卫视-SD" tvg-logo="http://192.168.100.1:6086/2/广东大湾区卫视.png" group-title="卫视频道",广东大湾区卫视-SD
+http://127.0.0.1:4022/rtp/239.21.2.133:5002
