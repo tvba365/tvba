@@ -425,8 +425,6 @@ http://127.0.0.1:4022/rtp/239.21.2.81:5002
 http://127.0.0.1:4022/rtp/239.21.1.80:5002
 #EXTINF:-1 tvg-id="214" tvg-name="日照五莲综合-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/日照五莲.png" group-title="省内频道",日照五莲综合-SD
 http://127.0.0.1:4022/rtp/239.21.1.249:5002
-#EXTINF:-1 tvg-id="215" tvg-name="滕州-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/3/滕州.png" group-title="省内频道",滕州-SD
-http://127.0.0.1:4022/rtp/239.21.1.178:5002
 
 #EXTINF:-1 tvg-id="216" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://127.0.0.1:4022/rtp/239.21.2.128:5002
