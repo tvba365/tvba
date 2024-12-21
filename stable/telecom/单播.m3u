@@ -102,6 +102,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/凤凰卫视.png" group-title="卫视频道",凤凰卫视
+http://150.138.8.143/00/SNM/CHANNEL00000380/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="陕西卫视-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/陕西卫视.png" group-title="卫视频道",陕西卫视-SD
 http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="山西卫视-SD" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/山西卫视.png" group-title="卫视频道",山西卫视-SD
