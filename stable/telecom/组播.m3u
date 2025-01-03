@@ -442,8 +442,6 @@ http://127.0.0.1:4022/rtp/239.21.2.90:5002
 http://127.0.0.1:4022/rtp/239.21.1.98:5002
 #EXTINF:-1 tvg-id="222" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/求索纪录.png" group-title="数字频道",求索纪录
 http://127.0.0.1:4022/rtp/239.21.2.159:5002
-#EXTINF:-1 tvg-id="223" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实人文.png" group-title="数字频道",纪实人文
-http://127.0.0.1:4022/rtp/239.21.1.171:5002
 #EXTINF:-1 tvg-id="224" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实科教.png" group-title="数字频道",纪实科教
 http://127.0.0.1:4022/rtp/239.21.1.172:5002
 #EXTINF:-1 tvg-id="225" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/金鹰纪实.png" group-title="数字频道",金鹰纪实
