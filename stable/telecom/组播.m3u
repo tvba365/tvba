@@ -475,7 +475,7 @@ http://127.0.0.1:4022/rtp/239.21.2.109:5002
 #EXTINF:-1 tvg-id="239" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/法治天地.png" group-title="数字频道",法治天地
 http://127.0.0.1:4022/rtp/239.21.2.105:5002
 
-#EXTINF:-1 tvg-id="240" tvg-name="BesTV4K" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/BesT4K.png" group-title="4K频道",BesTV4K
+#EXTINF:-1 tvg-id="240" tvg-name="BesT4K" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/BesT4K.png" group-title="4K频道",BesT4K
 http://127.0.0.1:4022/rtp/239.21.2.71:5002
 #EXTINF:-1 tvg-id="241" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/CCTV4K.png" group-title="4K频道",CCTV4K
 http://127.0.0.1:4022/rtp/239.21.2.152:5002
