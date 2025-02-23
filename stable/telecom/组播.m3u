@@ -223,6 +223,8 @@ http://127.0.0.1:4022/udp/239.21.2.155:5002
 http://127.0.0.1:4022/udp/239.21.2.156:5002
 #EXTINF:-1 tvg-id="文登" tvg-name="文登" tvg-logo="http://192.168.100.1:6086/3/文登.png" group-title="省内频道",文登
 http://127.0.0.1:4022/udp/239.21.1.174:5002
+#EXTINF:-1 tvg-id="烟台公共" tvg-name="烟台公共" tvg-logo="http://192.168.100.1:6086/3/烟台公共.png" group-title="省内频道",烟台公共-SD
+http://127.0.0.1:4022/udp/239.21.1.117:5002
 #EXTINF:-1 tvg-id="烟台新闻" tvg-name="烟台新闻" tvg-logo="http://192.168.100.1:6086/3/烟台新闻.png" group-title="省内频道",烟台新闻
 http://127.0.0.1:4022/udp/239.21.1.116:5002
 #EXTINF:-1 tvg-id="烟台经济科技" tvg-name="烟台经济科技" tvg-logo="http://192.168.100.1:6086/3/烟台经济科技.png" group-title="省内频道",烟台经济科技
