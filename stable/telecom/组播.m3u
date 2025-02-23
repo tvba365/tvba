@@ -417,6 +417,8 @@ http://127.0.0.1:4022/udp/239.21.1.81:5002
 http://127.0.0.1:4022/udp/239.21.1.82:5002
 #EXTINF:-1 tvg-id="日照岚山" tvg-name="日照岚山" tvg-logo="http://192.168.100.1:6086/3/日照岚山.png" group-title="省内频道",日照岚山
 http://127.0.0.1:4022/udp/239.21.1.209:5002
+#EXTINF:-1 tvg-id="日照莒县" tvg-name="日照莒县" tvg-logo="http://192.168.100.1:6086/3/日照莒县.png" group-title="省内频道",日照莒县
+http://127.0.0.1:4022/udp/239.21.1.236:5002
 #EXTINF:-1 tvg-id="日照新闻综合" tvg-name="日照新闻综合" tvg-logo="http://192.168.100.1:6086/3/日照综合.png" group-title="省内频道",日照新闻综合-SD
 http://127.0.0.1:4022/udp/239.21.1.79:5002
 #EXTINF:-1 tvg-id="日照公共" tvg-name="日照公共" tvg-logo="http://192.168.100.1:6086/3/日照公共.png" group-title="省内频道",日照公共-SD
