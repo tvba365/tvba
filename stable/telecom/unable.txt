@@ -12,3 +12,5 @@ http://127.0.0.1:4022/rtp/239.21.2.133:5002
 http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实人文.png" group-title="数字频道",纪实人文
 http://127.0.0.1:4022/rtp/239.21.1.171:5002
+
+NHKWorld,http://192.168.100.1:4022/udp/239.21.1.98:5002
