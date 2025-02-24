@@ -10,3 +10,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 http://127.0.0.1:4022/rtp/239.21.1.171:5002
 
 NHKWorld,http://192.168.100.1:4022/udp/239.21.1.98:5002
+
+#EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-logo="http://192.168.100.1:6086/4/NHKWorld.png" group-title="数字频道",NHKWorld
+http://127.0.0.1:4022/udp/239.21.1.98:5002
