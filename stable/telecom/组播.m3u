@@ -531,10 +531,6 @@ http://127.0.0.1:4022/udp/239.21.2.98:5002
 http://127.0.0.1:4022/udp/239.21.2.111:5002
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/家庭理财.png" group-title="有线标清",家庭理财-SD
 http://127.0.0.1:4022/udp/239.21.2.112:5002
-#EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/风尚购物.png" group-title="有线标清",风尚购物-SD
-http://127.0.0.1:4022/udp/239.21.2.125:5002
-#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/快乐购.png" group-title="有线标清",快乐购-SD
-http://127.0.0.1:4022/udp/239.21.2.124:5002
 #EXTINF:-1 tvg-id="山东居家购物" tvg-name="山东居家购物" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/山东居家购物.png" group-title="有线标清",山东居家购物
 http://127.0.0.1:4022/udp/239.21.1.112:5002
 
