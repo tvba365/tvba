@@ -49,8 +49,6 @@ http://192.168.100.1:4022/udp/239.21.2.33:5002
 http://192.168.100.1:4022/udp/239.21.2.34:5002
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://192.168.100.1:6086/1/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://192.168.100.1:4022/udp/239.21.2.35:5002
-#EXTINF:-1 tvg-id="CCTV-NEWS" tvg-name="CCTV-NEWS" tvg-logo="http://192.168.100.1:6086/1/CCTV-NEWS.png" group-title="央视频道",CCTV-NEWS
-http://192.168.100.1:4022/udp/239.21.1.10:5002
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://192.168.100.1:6086/2/山东卫视.png" group-title="卫视频道",山东卫视
 http://192.168.100.1:4022/udp/239.21.1.87:5002
