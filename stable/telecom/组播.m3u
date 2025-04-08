@@ -49,6 +49,8 @@ http://192.168.100.1:4022/udp/239.21.2.33:5002
 http://192.168.100.1:4022/udp/239.21.2.34:5002
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://192.168.100.1:6086/1/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://192.168.100.1:4022/udp/239.21.2.35:5002
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://192.168.100.1:6086/1/CCTV4K.png" group-title="央视频道",CCTV4K
+http://192.168.100.1:4022/udp/239.21.2.152:5002
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://192.168.100.1:6086/2/山东卫视.png" group-title="卫视频道",山东卫视
 http://192.168.100.1:4022/udp/239.21.1.87:5002
@@ -423,13 +425,6 @@ http://192.168.100.1:4022/udp/239.21.1.79:5002
 http://192.168.100.1:4022/udp/239.21.2.81:5002
 #EXTINF:-1 tvg-id="日照科教" tvg-name="日照科教" tvg-logo="http://192.168.100.1:6086/3/日照科教.png" group-title="省内频道",日照科教-SD
 http://192.168.100.1:4022/udp/239.21.1.80:5002
-#EXTINF:-1 tvg-id="日照五莲综合" tvg-name="日照五莲综合" tvg-logo="http://192.168.100.1:6086/3/日照五莲.png" group-title="省内频道",日照五莲综合-SD
-http://192.168.100.1:4022/udp/239.21.1.249:5002
-
-#EXTINF:-1 tvg-id="BesT4K" tvg-name="BesT4K" tvg-logo="http://192.168.100.1:6086/4/BesT4K.png" group-title="4K频道",BesT4K
-http://192.168.100.1:4022/udp/239.21.2.71:5002
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://192.168.100.1:6086/1/CCTV4K.png" group-title="4K频道",CCTV4K
-http://192.168.100.1:4022/udp/239.21.2.152:5002
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="http://192.168.100.1:6086/4/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
 http://192.168.100.1:4022/udp/239.21.2.126:5002
