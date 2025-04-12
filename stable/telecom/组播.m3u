@@ -49,8 +49,6 @@ http://192.168.100.1:4022/udp/239.21.2.33:5002
 http://192.168.100.1:4022/udp/239.21.2.34:5002
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://192.168.100.1:6086/1/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://192.168.100.1:4022/udp/239.21.2.35:5002
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://192.168.100.1:6086/1/CCTV4K.png" group-title="央视频道",CCTV4K
-http://192.168.100.1:4022/udp/239.21.2.152:5002
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://192.168.100.1:6086/2/山东卫视.png" group-title="卫视频道",山东卫视
 http://192.168.100.1:4022/udp/239.21.1.87:5002
@@ -77,7 +75,7 @@ http://192.168.100.1:4022/udp/239.21.1.159:5002
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://192.168.100.1:6086/2/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://192.168.100.1:4022/udp/239.21.1.233:5002
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://192.168.100.1:6086/2/河南卫视.png" group-title="卫视频道",河南卫视
-http://192.168.100.1:4022/udp/239.21.1.108:5002
+http://192.168.100.1:4022/udp/239.21.2.37:5002
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://192.168.100.1:6086/2/河北卫视.png" group-title="卫视频道",河北卫视
 http://192.168.100.1:4022/udp/239.21.1.168:5002
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://192.168.100.1:6086/2/天津卫视.png" group-title="卫视频道",天津卫视
@@ -276,7 +274,7 @@ http://192.168.100.1:4022/udp/239.21.1.210:5002
 #EXTINF:-1 tvg-id="泰安新泰乡村" tvg-name="泰安新泰乡村" tvg-logo="http://192.168.100.1:6086/3/新泰乡村.png" group-title="省内频道",泰安新泰乡村
 http://192.168.100.1:4022/udp/239.21.1.248:5002 
 #EXTINF:-1 tvg-id="肥城综合" tvg-name="肥城综合" tvg-logo="http://192.168.100.1:6086/3/肥城综合.png" group-title="省内频道",肥城综合
-http://192.168.100.1:4022/rtp/239.21.2.161:5002
+http://192.168.100.1:4022/udp/239.21.2.161:5002
 #EXTINF:-1 tvg-id="泰山" tvg-name="泰山" tvg-logo="http://192.168.100.1:6086/3/泰山.png" group-title="省内频道",泰山
 http://192.168.100.1:4022/udp/239.21.2.147:5002
 #EXTINF:-1 tvg-id="岱岳" tvg-name="岱岳" tvg-logo="http://192.168.100.1:6086/3/岱岳.png" group-title="省内频道",岱岳
@@ -493,6 +491,11 @@ http://192.168.100.1:4022/udp/239.21.1.162:5002
 http://192.168.100.1:4022/udp/239.21.2.107:5002
 #EXTINF:-1 tvg-id="9屏同播" tvg-name="9屏同播" tvg-logo="http://192.168.100.1:6086/4/9屏同播.png" group-title="数字频道",9屏同播
 http://192.168.100.1:4022/udp/239.21.1.203:5002
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://192.168.100.1:6086/1/CCTV4K.png" group-title="央视频道",CCTV4K
+http://192.168.100.1:4022/udp/239.21.2.152:5002
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="http://192.168.100.1:6086/4/北京卫视4K.png" group-title="央视频道",北京卫视4K
+http://192.168.100.1:4022/udp/239.21.2.162:5002
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://192.168.100.1:6086/3/山东教育.png" group-title="教育频道",山东教育
 http://192.168.100.1:4022/udp/239.21.1.169:5002
