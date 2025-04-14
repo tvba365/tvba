@@ -307,8 +307,6 @@ http://192.168.100.1:4022/udp/239.21.2.50:5002
 http://192.168.100.1:4022/udp/239.21.1.230:5002
 #EXTINF:-1 tvg-id="武城综合频道" tvg-name="武城综合频道" tvg-logo="http://192.168.100.1:6086/3/武城综合.png" group-title="省内频道",武城综合频道
 http://192.168.100.1:4022/udp/239.21.1.239:5002
-#EXTINF:-1 tvg-id="武城综艺影视" tvg-name="武城综艺影视" tvg-logo="http://192.168.100.1:6086/3/武城综艺影视.png" group-title="省内频道",武城综艺影视
-http://192.168.100.1:4022/udp/239.21.1.240:5002
 #EXTINF:-1 tvg-id="禹城综合" tvg-name="禹城综合" tvg-logo="http://192.168.100.1:6086/3/禹城综合.png" group-title="省内频道",禹城综合
 http://192.168.100.1:4022/udp/239.21.1.241:5002
 #EXTINF:-1 tvg-id="禹城综艺" tvg-name="禹城综艺" tvg-logo="http://192.168.100.1:6086/3/禹城综艺.png" group-title="省内频道",禹城综艺
@@ -492,9 +490,9 @@ http://192.168.100.1:4022/udp/239.21.2.107:5002
 #EXTINF:-1 tvg-id="9屏同播" tvg-name="9屏同播" tvg-logo="http://192.168.100.1:6086/4/9屏同播.png" group-title="数字频道",9屏同播
 http://192.168.100.1:4022/udp/239.21.1.203:5002
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://192.168.100.1:6086/1/CCTV4K.png" group-title="央视频道",CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://192.168.100.1:6086/1/CCTV4K.png" group-title="4K频道",CCTV4K
 http://192.168.100.1:4022/udp/239.21.2.152:5002
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="http://192.168.100.1:6086/4/北京卫视4K.png" group-title="央视频道",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="http://192.168.100.1:6086/4/北京卫视4K.png" group-title="4K频道",北京卫视4K
 http://192.168.100.1:4022/udp/239.21.2.162:5002
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://192.168.100.1:6086/3/山东教育.png" group-title="教育频道",山东教育
