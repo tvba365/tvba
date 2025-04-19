@@ -114,7 +114,7 @@ http://192.168.100.1:4022/udp/239.21.2.165:5002
 http://192.168.100.1:4022/udp/239.21.2.166:5002
 #EXTINF:-1 tvg-id="澳门" tvg-name="澳门" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/澳门.png" group-title="卫视频道",澳门
 http://192.168.100.1:4022/udp/239.21.2.167:5002
-#EXTINF:-1 tvg-id="FRANCE24," tvg-name="FRANCE24," tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/FRANCE24,.png" group-title="卫视频道",FRANCE24
+#EXTINF:-1 tvg-id="FRANCE24," tvg-name="FRANCE24," tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/2/FRANCE24.png" group-title="卫视频道",FRANCE24
 http://192.168.100.1:4022/udp/239.21.2.168:5002
 #EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/NHKWorld.png" group-title="卫视频道",NHKWorld
 http://192.168.100.1:4022/udp/239.21.2.170:5002
