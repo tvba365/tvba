@@ -471,7 +471,7 @@ http://192.168.100.1:4022/udp/239.21.2.159:5002
 http://192.168.100.1:4022/udp/239.21.2.119:5002
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://192.168.100.1:4022/udp/239.21.1.170:5002
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实科教.png" group-title="数字频道",北京纪实科教
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/北京纪实科教.png" group-title="数字频道",北京纪实科教
 http://192.168.100.1:4022/udp/239.21.1.172:5002
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/tvba365/tvba/main/4/东方财经.png" group-title="数字频道",东方财经
 http://192.168.100.1:4022/udp/239.21.2.108:5002
