@@ -118,7 +118,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227284/517077846.smil
 #EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/NHKWorld.png" group-title="卫视频道",NHKWorld
 rtsp://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil
-#EXTINF:-1 tvg-id="阿里郎电视" tvg-name="阿里郎电视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/阿里郎电视.png" group-title="卫视频道",阿里郎电视
+#EXTINF:-1 tvg-id="阿里郎电视" tvg-name="阿里郎电视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/阿里郎电视.png" group-title="卫视频道",阿里郎电视
 rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
 #EXTINF:-1 tvg-id="欧洲新闻亚洲" tvg-name="欧洲新闻亚洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/euronews.png" group-title="卫视频道",欧洲新闻亚洲-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227288/517077815.smil
