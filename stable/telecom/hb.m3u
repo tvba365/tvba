@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml,https://ghfast.top/https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/main/epg/epg.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/1/CCTV1.png" group-title="央视频道",CCTV-1综合
 rtsp://150.138.8.132/PLTV/88888888/224/3221226103/10000100000000060000000002902003_0.smil
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/1/CCTV2.png" group-title="央视频道",CCTV-2财经
@@ -108,22 +108,20 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227409/497429879.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227280/516918666.smil
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
 rtsp://150.138.8.132/PLTV/88888888/224/3221227291/516918680.smil
-
-
-#EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/亚洲新闻.png" group-title="卫视频道",亚洲新闻台
-http://192.168.100.1:4022/udp/239.21.2.165:5002
-#EXTINF:-1 tvg-id="星空国际" tvg-name="星空国际" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/星空卫视.png" group-title="卫视频道",星空国际
-http://192.168.100.1:4022/udp/239.21.2.166:5002
-#EXTINF:-1 tvg-id="澳门" tvg-name="澳门" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/澳门.png" group-title="卫视频道",澳门
-http://192.168.100.1:4022/udp/239.21.2.167:5002
-#EXTINF:-1 tvg-id="FRANCE24," tvg-name="FRANCE24," tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/FRANCE24.png" group-title="卫视频道",FRANCE24
-http://192.168.100.1:4022/udp/239.21.2.168:5002
+#EXTINF:-1 tvg-id="新加坡新闻" tvg-name="新加坡新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/亚洲新闻.png" group-title="卫视频道",新加坡新闻
+rtsp://150.138.8.132/PLTV/88888888/224/3221227422/517070372.smil
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/星空卫视.png" group-title="卫视频道",星空卫视
+rtsp://150.138.8.132/PLTV/88888888/224/3221227426/517077244.smil
+#EXTINF:-1 tvg-id="澳门Macau卫视" tvg-name="澳门Macau卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/澳门Macau卫视.png" group-title="卫视频道",澳门Macau卫视
+rtsp://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil
+#EXTINF:-1 tvg-id="法兰西24小时新闻" tvg-name="法兰西24小时新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/FRANCE24.png" group-title="卫视频道",法兰西24小时新闻
+rtsp://150.138.8.132/PLTV/88888888/224/3221227284/517077846.smil
 #EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/NHKWorld.png" group-title="卫视频道",NHKWorld
-http://192.168.100.1:4022/udp/239.21.2.170:5002
-#EXTINF:-1 tvg-id="euronews" tvg-name="euronews" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/euronews.png" group-title="卫视频道",euronews-SD
-http://192.168.100.1:4022/udp/239.21.2.169:5002
-
-
+rtsp://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil
+#EXTINF:-1 tvg-id="阿里郎电视" tvg-name="阿里郎电视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/阿里郎电视.png" group-title="卫视频道",阿里郎电视
+rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
+#EXTINF:-1 tvg-id="欧洲新闻亚洲" tvg-name="欧洲新闻亚洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/euronews.png" group-title="卫视频道",欧洲新闻亚洲-SD
+rtsp://150.138.8.132/PLTV/88888888/224/3221227288/517077815.smil
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/陕西卫视.png" group-title="卫视频道",陕西卫视-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226018/10000100000000060000000002706915_0.smil
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/山西卫视.png" group-title="卫视频道",山西卫视-SD
