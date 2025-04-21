@@ -122,6 +122,14 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
 #EXTINF:-1 tvg-id="欧洲新闻亚洲" tvg-name="欧洲新闻亚洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/euronews.png" group-title="卫视频道",欧洲新闻亚洲-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227288/517077815.smil
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://php.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/西藏卫视.png" group-title="卫视频道",西藏卫视
+rtsp://150.138.8.132/PLTV/88888888/224/3221226019/10000100000000060000000002706936_0.smil
+#EXTINF:-1 tvg-id="西藏藏语卫视" tvg-name="西藏藏语卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/西藏藏语卫视.png" group-title="卫视频道",西藏藏语卫视
+http://php.jdshipin.com:8880/xztv.php?id=zy
+#EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/西藏影视文化.png" group-title="卫视频道",西藏影视文化
+http://php.jdshipin.com:8880/xztv.php?id=ys
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/陕西卫视.png" group-title="卫视频道",陕西卫视-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226018/10000100000000060000000002706915_0.smil
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/山西卫视.png" group-title="卫视频道",山西卫视-SD
@@ -132,18 +140,6 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221226034/100001000000000600000000027069
 rtsp://150.138.8.132/PLTV/88888888/224/3221226040/10000100000000060000000002706934_0.smil
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/新疆卫视.png" group-title="卫视频道",新疆卫视-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226042/10000100000000060000000002706935_0.smil
-
-
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 tvg-id="西藏藏语卫视" tvg-name="西藏藏语卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/西藏卫视.png" group-title="卫视频道",西藏藏语卫视
-http://php.jdshipin.com:8880/xztv.php?id=zy
-#EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/西藏卫视.png" group-title="卫视频道",西藏影视文化
-http://php.jdshipin.com:8880/xztv.php?id=ys
-
-
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/西藏卫视.png" group-title="卫视频道",西藏卫视-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221226019/10000100000000060000000002706936_0.smil
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/兵团卫视.png" group-title="卫视频道",兵团卫视-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226726/10000100000000060000000004141145_0.smil
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/农林卫视.png" group-title="卫视频道",农林卫视-SD
@@ -474,12 +470,10 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221226216/100001000000000600000000029364
 rtsp://150.138.8.132/PLTV/88888888/224/3221226214/10000100000000060000000002936467_0.smil
 #EXTINF:-1 tvg-id=" 重温经典" tvg-name=" 重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/重温经典.png" group-title="影视频道", 重温经典
 http://150.138.8.132/00/SNM/CHANNEL00000364/index.m3u8
-
-#EXTINF:-1 tvg-id=" 广电重温经典" tvg-name="广电重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/重温经典.png" group-title="影视频道",广电重温经典
+#EXTINF:-1 tvg-id=" 广电重温经典" tvg-name="广电重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/广电重温经典.png" group-title="影视频道",广电重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="广电重温经典" tvg-name="广电重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/重温经典.png" group-title="影视频道",广电重温经典
+#EXTINF:-1 tvg-id="广电重温经典" tvg-name="广电重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/广电重温经典.png" group-title="影视频道",广电重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/都市剧场.png" group-title="影视频道",都市剧场
 rtsp://150.138.8.132/PLTV/88888888/224/3221227147/443330119.smil
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/生态环境.png" group-title="影视频道",生态环境
