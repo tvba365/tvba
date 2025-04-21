@@ -462,7 +462,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221226111/100001000000000600000000029366
 rtsp://150.138.8.132/PLTV/88888888/224/3221226216/10000100000000060000000002936466_0.smil
 #EXTINF:-1 tvg-id="IPTV魅力时尚" tvg-name="IPTV魅力时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/魅力时尚.png" group-title="影视频道",IPTV魅力时尚
 rtsp://150.138.8.132/PLTV/88888888/224/3221226214/10000100000000060000000002936467_0.smil
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/重温经典.png" group-title="影视频道",重温经典
+#EXTINF:-1 tvg-id="重温经典影视" tvg-name="重温经典影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/重温经典影视.png" group-title="影视频道",重温经典影视
 http://150.138.8.132/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/都市剧场.png" group-title="影视频道",都市剧场
 rtsp://150.138.8.132/PLTV/88888888/224/3221227147/443330119.smil
