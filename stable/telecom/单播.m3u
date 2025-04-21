@@ -432,7 +432,7 @@ http://150.138.8.143/00/SNM/CHANNEL00002029/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002028/index.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/精彩影视.png" group-title="影视频道",精彩影视
 http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/重温经典.png" group-title="影视频道",重温经典
+#EXTINF:-1 tvg-id="重温经典影视" tvg-name="重温经典影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/重温经典影视.png" group-title="影视频道",重温经典影视
 http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/都市剧场.png" group-title="影视频道",都市剧场
 http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
