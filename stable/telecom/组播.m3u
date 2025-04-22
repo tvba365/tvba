@@ -446,11 +446,11 @@ http://127.0.0.1:4022/udp/239.21.2.126:5002
 http://127.0.0.1:4022/udp/239.21.2.127:5002
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/CHC动作电影.png" group-title="影视频道",CHC动作电影
 http://127.0.0.1:4022/udp/239.21.2.128:5002
-#EXTINF:-1 tvg-id="光影" tvg-name="光影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/华数.png" group-title="影视频道",光影
+#EXTINF:-1 tvg-id="光影" tvg-name="光影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/光影.png" group-title="影视频道",光影
 http://127.0.0.1:4022/udp/239.21.1.131:5002
-#EXTINF:-1 tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/华数.png" group-title="影视频道",动作影院
+#EXTINF:-1 tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/动作影院.png" group-title="影视频道",动作影院
 http://127.0.0.1:4022/udp/239.21.1.123:5002
-#EXTINF:-1 tvg-id="喜剧影院" tvg-name="喜剧影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/华数.png" group-title="影视频道",喜剧影院
+#EXTINF:-1 tvg-id="喜剧影院" tvg-name="喜剧影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/喜剧影院.png" group-title="影视频道",喜剧影院
 http://127.0.0.1:4022/udp/239.21.1.122:5002
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/精彩影视.png" group-title="影视频道",精彩影视
 http://127.0.0.1:4022/udp/239.21.2.91:5002
