@@ -445,7 +445,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000667/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/纪实科教.png" group-title="数字频道",北京纪实科教
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/北京纪实科教.png" group-title="数字频道",北京纪实科教
 http://150.138.8.143/00/SNM/CHANNEL00000332/index.m3u8
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/中国交通.png" group-title="数字频道",中国交通
 http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
