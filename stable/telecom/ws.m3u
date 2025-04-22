@@ -110,7 +110,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227280/516918666.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227291/516918680.smil
 #EXTINF:-1 tvg-id="新加坡新闻" tvg-name="新加坡新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/亚洲新闻.png" group-title="卫视频道",新加坡新闻
 rtsp://150.138.8.132/PLTV/88888888/224/3221227422/517070372.smil
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/星空卫视.png" group-title="卫视频道",星空卫视
+#EXTINF:-1 tvg-id="星空卫视国际" tvg-name="星空卫视国际" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/星空卫视.png" group-title="卫视频道",星空卫视国际
 rtsp://150.138.8.132/PLTV/88888888/224/3221227426/517077244.smil
 #EXTINF:-1 tvg-id="澳门Macau卫视" tvg-name="澳门Macau卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/澳门Macau卫视.png" group-title="卫视频道",澳门Macau卫视
 rtsp://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil
