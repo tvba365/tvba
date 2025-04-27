@@ -32,4 +32,27 @@ CETV4,http://192.168.100.1:4022/udp/239.21.1.222:5002
 武城综艺影视,http://192.168.100.1:4022/udp/239.21.1.240:5002
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
+浙江综合,#genre#
+丽水遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+浙江影视娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8片段
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed片段
+平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed停播
+余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed片段
+余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed片段
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed片段
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed片段
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed片段
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed停播
+兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed停播
+江苏综合,#genre#
+淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd淮安影院娱乐
+张家港新闻综合,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
+张家港民生频道,http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
+四川综合,#genre#
+泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd片段
+吉林都市,http://211.141.56.169:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0卡顿
+吉林综艺,http://211.141.56.169:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0卡顿
+吉林影视,http://211.141.56.169:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0卡顿
+吉林生活,http://211.141.56.169:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&auth卡顿
+
 
