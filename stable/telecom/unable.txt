@@ -55,4 +55,23 @@ CETV4,http://192.168.100.1:4022/udp/239.21.1.222:5002
 吉林影视,http://211.141.56.169:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0卡顿
 吉林生活,http://211.141.56.169:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&auth卡顿
 
+静止画面
+上街电视台,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8#http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8#http://live.dxhmt.cn:9081/tv/10381-1.m3u8
+建安综合,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8#http://live.dxhmt.cn:9081/tv/11003-1.m3u8
+浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8#http://live.dxhmt.cn:9081/tv/10621-1.m3u8
+获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8#http://live.dxhmt.cn:9081/tv/10724-1.m3u8
+辉县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8#http://live.dxhmt.cn:9081/tv/10782-1.m3u8
 
+失效
+林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8#http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8#http://live.dxhmt.cn:9081/tv/11330-1.m3u8
+禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8#http://tvpull.dxhmt.cn/tv/11081-2.m3u8
+永城民生,http://tvpull.dxhmt.cn:9081/tv/11481-2.m3u8#http://live.dxhmt.cn:9081/tv/11481-2.m3u8
+永城综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8#http://live.dxhmt.cn:9081/tv/11481-4.m3u8
+商城新闻,http://tvpull.dxhmt.cn:9081/tv/11524-1.m3u8#http://live.dxhmt.cn:9081/tv/11524-1.m3u8
+封丘城乡生活,http://tvpull.dxhmt.cn:9081/tv/10727-2.m3u8#http://live.dxhmt.cn:9081/tv/10727-2.m3u8
+封丘戏曲,http://tvpull.dxhmt.cn:9081/tv/10727-3.m3u8#http://live.dxhmt.cn:9081/tv/10727-3.m3u8
+焦作教育-SD,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
+睛彩焦作-SD,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
