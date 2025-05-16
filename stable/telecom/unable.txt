@@ -63,6 +63,7 @@ CETV4,http://192.168.100.1:4022/udp/239.21.1.222:5002
 浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8#http://live.dxhmt.cn:9081/tv/10621-1.m3u8
 获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8#http://live.dxhmt.cn:9081/tv/10724-1.m3u8
 辉县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8#http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+范县综合-SD,http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
 
 失效
 林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8#http://live.dxhmt.cn:9081/tv/10581-1.m3u8
