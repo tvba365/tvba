@@ -110,13 +110,11 @@ http://127.0.0.1:4022/udp/239.21.2.163:5002
 http://127.0.0.1:4022/udp/239.21.2.164:5002
 #EXTINF:-1 tvg-id="新加坡新闻" tvg-name="新加坡新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/亚洲新闻.png" group-title="卫视频道",新加坡新闻
 http://127.0.0.1:4022/udp/239.21.2.165:5002
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/星空卫视.png" group-title="卫视频道",星空卫视
-http://127.0.0.1:4022/udp/239.21.2.166:5002
 #EXTINF:-1 tvg-id="澳门Macau卫视" tvg-name="澳门Macau卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/澳门Macau卫视.png" group-title="卫视频道",澳门Macau卫视
 http://127.0.0.1:4022/udp/239.21.2.167:5002
 #EXTINF:-1 tvg-id="法兰西24小时新闻" tvg-name="法兰西24小时新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/FRANCE24.png" group-title="卫视频道",法兰西24小时新闻
 http://127.0.0.1:4022/udp/239.21.2.168:5002
-#EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/NHKWorld.png" group-title="卫视频道",NHKWorld
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/NHKWorld.png" group-title="卫视频道",NHK World
 http://127.0.0.1:4022/udp/239.21.2.170:5002
 #EXTINF:-1 tvg-id="阿里郎电视" tvg-name="阿里郎电视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/阿里郎电视.png" group-title="卫视频道",阿里郎电视
 http://127.0.0.1:4022/udp/239.21.2.171:5002
@@ -511,7 +509,7 @@ http://127.0.0.1:4022/udp/239.21.1.203:5002
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/1/CCTV4K.png" group-title="4K频道",CCTV4K
 http://127.0.0.1:4022/udp/239.21.2.152:5002
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/北京卫视4K.png" group-title="4K频道",北京卫视4K
-http://127.0.0.1:4022/udp/239.21.2.162:5002
+http://127.0.0.1:4022/udp/239.21.2.172:5002
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/3/山东教育.png" group-title="教育频道",山东教育
 http://127.0.0.1:4022/udp/239.21.1.169:5002
