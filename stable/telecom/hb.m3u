@@ -110,8 +110,6 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227280/516918666.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227291/516918680.smil
 #EXTINF:-1 tvg-id="新加坡新闻" tvg-name="新加坡新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/亚洲新闻.png" group-title="卫视频道",新加坡新闻
 rtsp://150.138.8.132/PLTV/88888888/224/3221227422/517070372.smil
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/星空卫视.png" group-title="卫视频道",星空卫视
-rtsp://150.138.8.132/PLTV/88888888/224/3221227426/517077244.smil
 #EXTINF:-1 tvg-id="澳门Macau卫视" tvg-name="澳门Macau卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/澳门Macau卫视.png" group-title="卫视频道",澳门Macau卫视
 rtsp://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil
 #EXTINF:-1 tvg-id="法兰西24小时新闻" tvg-name="法兰西24小时新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/FRANCE24.png" group-title="卫视频道",法兰西24小时新闻
@@ -513,7 +511,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221226598/100001000000000600000000038784
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/1/CCTV4K.png" group-title="4K频道",CCTV4K
 rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/北京卫视4K.png" group-title="4K频道",北京卫视4K
-rtsp://150.138.8.132/PLTV/88888888/224/3221227418/516579833.smil
+rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/3/山东教育.png" group-title="教育频道",山东教育
 rtsp://150.138.8.132/PLTV/88888888/224/3221226219/10000100000000060000000003301182_0.smil
