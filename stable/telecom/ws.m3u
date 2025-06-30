@@ -520,8 +520,12 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221226598/100001000000000600000000038784
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/1/CCTV4K.png" group-title="4K频道",CCTV4K
 rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/4/北京卫视4K.png" group-title="4K频道",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/北京卫视4K.png" group-title="4K频道",北京卫视4K
 rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/广东卫视4K.png" group-title="4K频道",广东卫视4K超高清
+rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/2/深圳卫视4K.png" group-title="4K频道",深圳卫视4K超高清
+rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/tvba365/tvba/main/3/山东教育.png" group-title="教育频道",山东教育
 rtsp://150.138.8.132/PLTV/88888888/224/3221226219/10000100000000060000000003301182_0.smil
