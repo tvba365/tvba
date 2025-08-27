@@ -91,3 +91,5 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227012/410462805.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227345/443330208.smil
 #EXTINF:-1 tvg-id="阿里郎电视" tvg-name="阿里郎电视" tvg-logo="https://tvlogo.hitv.dpdns.org/ws/阿里郎电视.png" group-title="卫视频道",阿里郎电视
 rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://tvlogo.hitv.dpdns.org/sz/魅力足球.png" group-title="数字频道",魅力足球
+rtsp://150.138.8.132/PLTV/88888888/224/3221227123/443309050.smil
