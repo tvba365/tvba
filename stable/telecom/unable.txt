@@ -14,6 +14,8 @@ NHKWorld,http://192.168.100.1:4022/udp/239.21.1.98:5002
 星空卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227426/517077244.smil
 北京卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227418/516579833.smil?zoneoffset=480&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%2C10500000431655%2C10.220.81.154%2C20250415205318%2CCHANNEL40000001%2C10001000487544%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C516579833%2CEND
 
+
+
 北京卫视4K,http://192.168.100.1:4022/udp/239.21.2.162:5002
 星空卫视,http://192.168.100.1:4022/udp/239.21.2.166:5002
 
@@ -82,3 +84,10 @@ CETV4,http://192.168.100.1:4022/udp/239.21.1.222:5002
 封丘戏曲,http://tvpull.dxhmt.cn:9081/tv/10727-3.m3u8#http://live.dxhmt.cn:9081/tv/10727-3.m3u8
 焦作教育-SD,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
 睛彩焦作-SD,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="车迷" tvg-name="车迷" tvg-logo="https://tvlogo.hitv.dpdns.org/sz/车迷频道.png" group-title="教育频道",车迷频道-SD
+rtsp://150.138.8.132/PLTV/88888888/224/3221227012/410462805.smil
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://tvlogo.hitv.dpdns.org/sz/家庭理财.png" group-title="教育频道",家庭理财-SD
+rtsp://150.138.8.132/PLTV/88888888/224/3221227345/443330208.smil
+#EXTINF:-1 tvg-id="阿里郎电视" tvg-name="阿里郎电视" tvg-logo="https://tvlogo.hitv.dpdns.org/ws/阿里郎电视.png" group-title="卫视频道",阿里郎电视
+rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
