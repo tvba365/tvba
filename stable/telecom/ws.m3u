@@ -452,20 +452,8 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227188/454656891.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227180/454656879.smil
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tvba365.github.io/itv/4/CHC动作电影.png" group-title="影视频道",CHC动作电影
 rtsp://150.138.8.132/PLTV/88888888/224/3221227184/454656910.smil
-#EXTINF:-1 tvg-id="光影" tvg-name="光影" tvg-logo="https://tvba365.github.io/itv/4/光影.png" group-title="影视频道",光影
-rtsp://150.138.8.132/PLTV/88888888/224/3221226210/10000100000000060000000002936473_0.smil
-#EXTINF:-1 tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://tvba365.github.io/itv/4/动作影院.png" group-title="影视频道",动作影院
-rtsp://150.138.8.132/PLTV/88888888/224/3221226105/10000100000000060000000002936167_0.smil
-#EXTINF:-1 tvg-id="喜剧影院" tvg-name="喜剧影院" tvg-logo="https://tvba365.github.io/itv/4/喜剧影院.png" group-title="影视频道",喜剧影院
-rtsp://150.138.8.132/PLTV/88888888/224/3221226182/10000100000000060000000002936139_0.smil
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://tvba365.github.io/itv/4/精彩影视.png" group-title="影视频道",精彩影视
 rtsp://150.138.8.132/PLTV/88888888/224/3221227155/443330176.smil
-#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://tvba365.github.io/itv/4/经典电影.png" group-title="影视频道",经典电影
-rtsp://150.138.8.132/PLTV/88888888/224/3221226111/10000100000000060000000002936623_0.smil
-#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="https://tvba365.github.io/itv/4/热播剧场.png" group-title="影视频道",热播剧场
-rtsp://150.138.8.132/PLTV/88888888/224/3221226216/10000100000000060000000002936466_0.smil
-#EXTINF:-1 tvg-id="魅力时尚" tvg-name="魅力时尚" tvg-logo="https://tvba365.github.io/itv/4/魅力时尚.png" group-title="影视频道",魅力时尚
-rtsp://150.138.8.132/PLTV/88888888/224/3221226214/10000100000000060000000002936467_0.smil
 #EXTINF:-1 tvg-id="重温经典影视" tvg-name="重温经典影视" tvg-logo="https://tvba365.github.io/itv/4/重温经典影视.png" group-title="影视频道",重温经典影视
 http://150.138.8.132/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-id=" 重温经典" tvg-name="重温经典" tvg-logo="https://tvba365.github.io/itv/4/重温经典.png" group-title="影视频道",重温经典
@@ -503,18 +491,10 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227282/443330131.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227337/443330026.smil
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://tvba365.github.io/itv/4/文物宝库.png" group-title="数字频道",文物宝库
 rtsp://150.138.8.132/PLTV/88888888/224/3221227341/443330186.smil
-#EXTINF:-1 tvg-id="相声小品" tvg-name="相声小品" tvg-logo="https://tvba365.github.io/itv/4/相声小品.png" group-title="数字频道",相声小品
-rtsp://150.138.8.132/PLTV/88888888/224/3221226204/10000100000000060000000002936464_0.smil
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://tvba365.github.io/itv/4/乐游.png" group-title="数字频道",乐游
 rtsp://150.138.8.132/PLTV/88888888/224/3221227139/443310012.smil
-#EXTINF:-1 tvg-id="美人" tvg-name="美人" tvg-logo="https://tvba365.github.io/itv/4/美人.png" group-title="数字频道",美人
-rtsp://150.138.8.132/PLTV/88888888/224/3221226208/10000100000000060000000002936474_0.smil
-#EXTINF:-1 tvg-id="墨宝" tvg-name="墨宝" tvg-logo="https://tvba365.github.io/itv/4/墨宝.png" group-title="数字频道",墨宝
-rtsp://150.138.8.132/PLTV/88888888/224/3221226212/10000100000000060000000002936468_0.smil
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://tvba365.github.io/itv/4/生活时尚.png" group-title="数字频道",生活时尚
 rtsp://150.138.8.132/PLTV/88888888/224/3221227325/443310000.smil
-#EXTINF:-1 tvg-id="天下足球" tvg-name="天下足球" tvg-logo="https://tvba365.github.io/itv/4/天下足球.png" group-title="数字频道",天下足球
-rtsp://150.138.8.132/PLTV/88888888/224/3221226193/10000100000000060000000003135758_0.smil
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://tvba365.github.io/itv/4/游戏风云.png" group-title="数字频道",游戏风云
 rtsp://150.138.8.132/PLTV/88888888/224/3221227143/443310036.smil
 #EXTINF:-1 tvg-id="9屏同播" tvg-name="9屏同播" tvg-logo="https://tvba365.github.io/itv/4/9屏同播.png" group-title="数字频道",9屏同播
@@ -546,34 +526,30 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227262/443309935.smil
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://tvba365.github.io/itv/4/快乐垂钓.png" group-title="教育频道",快乐垂钓
 rtsp://150.138.8.132/PLTV/88888888/224/3221227156/443330036.smil
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://tvba365.github.io/itv/4/四海钓鱼.png" group-title="教育频道",四海钓鱼
-rtsp://150.138.8.132/PLTV/88888888/224/3221227345/443330208.smil
+http://150.138.8.132/00/SNM/CHANNEL00000674/index.m3u8
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://tvba365.github.io/itv/4/四海钓鱼.png" group-title="教育频道",四海钓鱼
 rtsp://150.138.8.132/PLTV/88888888/224/3221227004/410462602.smil
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://tvba365.github.io/itv/4/生态环境.png" group-title="教育频道",生态环境
+http://150.138.8.132/00/SNM/CHANNEL00000671/index.m3u8
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://tvba365.github.io/itv/4/中华特产.png" group-title="教育频道",中华特产
+http://150.138.8.132/00/SNM/CHANNEL00000672/index.m3u8
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://tvba365.github.io/itv/4/财富天下.png" group-title="教育频道",财富天下-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226206/10000100000000060000000002936465_0.smil
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://tvba365.github.io/itv/4/家庭理财.png" group-title="教育频道",家庭理财-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227345/443330208.smil
-#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://tvba365.github.io/itv/4/中华特产.png" group-title="教育频道",中华特产-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221227016/410462889.smil
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://tvba365.github.io/itv/4/环球旅游.png" group-title="教育频道",环球旅游-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227149/410462831.smil
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://tvba365.github.io/itv/4/先锋乒羽.png" group-title="教育频道",先锋乒羽-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227286/443330141.smil
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://tvba365.github.io/itv/4/书画频道.png" group-title="教育频道",书画频道-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227163/443330165.smil
-#EXTINF:-1 tvg-id="生态环境-SD" tvg-name="生态环境-SD" tvg-logo="https://tvba365.github.io/itv/4/生态环境.png" group-title="教育频道",生态环境-SD
-http://150.138.8.143/00/SNM/CHANNEL00000644/index.m3u8
 
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://tvba365.github.io/itv/4/动漫秀场.png" group-title="少儿频道",动漫秀场
 rtsp://150.138.8.132/PLTV/88888888/224/3221227297/443309884.smil
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://tvba365.github.io/itv/4/卡酷少儿.png" group-title="少儿频道",卡酷少儿
 rtsp://150.138.8.132/PLTV/88888888/224/3221227167/448429701.smil
-#EXTINF:-1 tvg-id="少儿动画" tvg-name="少儿动画" tvg-logo="https://tvba365.github.io/itv/4/少儿动画.png" group-title="少儿频道",少儿动画
-rtsp://150.138.8.132/PLTV/88888888/224/3221226109/10000100000000060000000002936453_0.smil
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://tvba365.github.io/itv/4/金鹰卡通.png" group-title="少儿频道",金鹰卡通
 rtsp://150.138.8.132/PLTV/88888888/224/3221227164/443837474.smil
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://tvba365.github.io/itv/4/哈哈炫动.png" group-title="少儿频道",哈哈炫动-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221226064/10000100000000060000000002706941_0.smil
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://tvba365.github.io/itv/4/优漫卡通.png" group-title="少儿频道",优漫卡通-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226066/10000100000000060000000002706940_0.smil
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://tvba365.github.io/itv/4/优优宝贝.png" group-title="少儿频道",优优宝贝-SD
@@ -594,5 +570,6 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227366/490711725.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227370/495807202.smil
 #EXTINF:-1 tvg-id="山东综合广播" tvg-name="山东综合广播" tvg-logo="https://tvba365.github.io/itv/4/山东综合广播.png" group-title="电台广播",山东广播电台综合广播
 http://150.138.8.132/00/SNM/CHANNEL00004008/index.m3u8
+
 
 
