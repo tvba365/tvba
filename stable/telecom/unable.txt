@@ -210,4 +210,22 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227288/517077815.smil
 
 
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://192.168.51.1:7088/udp/239.21.2.153:5002
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://192.168.51.1:7088/udp/239.21.2.163:5002
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
+http://192.168.51.1:7088/udp/239.21.2.164:5002
+#EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://tvba365.github.io/itv/2/亚洲新闻.png" group-title="卫视频道",亚洲新闻台
+http://192.168.51.1:7088/udp/239.21.2.165:5002
+#EXTINF:-1 tvg-id="澳门Macau卫视" tvg-name="澳门Macau卫视" tvg-logo="https://tvba365.github.io/itv/2/澳门Macau卫视.png" group-title="卫视频道",澳门Macau卫视
+http://192.168.51.1:7088/udp/239.21.2.167:5002
+#EXTINF:-1 tvg-id="法兰西24小时新闻" tvg-name="法兰西24小时新闻" tvg-logo="https://tvba365.github.io/itv/2/FRANCE24.png" group-title="卫视频道",法兰西24小时新闻
+http://192.168.51.1:7088/udp/239.21.2.168:5002
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://tvba365.github.io/itv/4/NHKWorld.png" group-title="卫视频道",NHK World
+http://192.168.51.1:7088/udp/239.21.2.170:5002
+#EXTINF:-1 tvg-id="欧洲新闻亚洲" tvg-name="欧洲新闻亚洲" tvg-logo="https://tvba365.github.io/itv/2/DW德国之声.png" group-title="卫视频道",欧洲新闻亚洲-SD
+http://192.168.51.1:7088/udp/239.21.2.169:5002
+
+
 
